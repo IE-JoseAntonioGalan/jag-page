@@ -42,6 +42,7 @@ Route::prefix('projects')->controller(ProjectController::class)->group(function 
     Route::delete('/delete/{post}', 'destroy');
 });
 
+
 Route::prefix('site')->controller(SiteConfigController::class)->group(function () {
     Route::get('/info', 'show');
     Route::post('/config', 'update');
