@@ -2,7 +2,9 @@
 
 namespace Database\Seeders;
 
+use App\Models\Event;
 use App\Models\News;
+use App\Models\Project;
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
 
@@ -15,7 +17,8 @@ class DatabaseSeeder extends Seeder
      */
     public function run()
     {
-        // \App\Models\User::factory(10)->create();
         News::factory(25)->create();
+        Event::factory(25)->create();
+        Project::factory(25)->create();
     }
 }

@@ -4467,7 +4467,7 @@ function PostFormPage() {
                 value: "published",
                 children: "Publicar"
               }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)("option", {
-                value: "erased",
+                value: "eraser",
                 children: "Borrador"
               })]
             })]
@@ -4610,7 +4610,7 @@ function PostsPage() {
             }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)("td", {
               children: item.title
             }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)("td", {
-              children: item.status == 'erased' ? 'Borrador' : 'Publicado'
+              children: item.status == 'eraser' ? 'Borrador' : 'Publicado'
             }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxs)("td", {
               children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)(react_router_dom__WEBPACK_IMPORTED_MODULE_4__.Link, {
                 to: 'form/' + item.id,

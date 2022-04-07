@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\ViewsController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -13,10 +14,18 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', [ViewsController::class, 'index']);
+Route::get('/noticias', [ViewsController::class, 'posts_view'])->name('News');
+Route::get('/noticias/{post_id}', [ViewsController::class, 'post_see_view'])->name('News_see');
+Route::get('/proyectos', [ViewsController::class, 'posts_view'])->name('Project');
+Route::get('/proyectos/{post_id}', [ViewsController::class, 'post_see_view'])->name('Project_see');
+Route::get('/eventos', [ViewsController::class, 'posts_view'])->name('Event');
+Route::get('/eventos/{post_id}', [ViewsController::class, 'posts_view'])->name('Event_see');
 
+
+/*
+/ CMS routes config
+*/
 Route::get('/admin', function () {
     return view('admin.index');
 });

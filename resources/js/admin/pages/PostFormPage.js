@@ -67,7 +67,7 @@ function PostFormPage() {
                 <label>
                   Estado: <select defaultValue={initValues.status} name="status" className='input'>
                             <option value="published">Publicar</option>
-                            <option value="erased">Borrador</option>
+                            <option value="eraser">Borrador</option>
                           </select>
                 </label>
                 <button className='btn btn-primary'>{postId ? 'Actualizar' : 'Crear'} Pulicacion</button>

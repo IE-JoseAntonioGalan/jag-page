@@ -13,7 +13,7 @@ class NewsController extends Controller
      */
     public function index()
     {
-        $data = News::all();
+        $data = News::orderBy('created_at', 'DESC')->get();
 
         return response()->json(["message" => "Correct request", "data" => $data]);
     }

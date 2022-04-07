@@ -39,7 +39,7 @@ function PostsPage() {
               <td>{item.id}</td>
               <td>{item.thumbnail}</td>
               <td>{item.title}</td>
-              <td>{item.status == 'erased' ? 'Borrador' : 'Publicado'}</td>
+              <td>{item.status == 'eraser' ? 'Borrador' : 'Publicado'}</td>
               <td><Link to={'form/'+item.id}>Editar</Link> <button onClick={() => handleDeletePost(item.id)}>Eliminar</button></td>
             </tr>
           ))}

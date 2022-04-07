@@ -193,5 +193,6 @@ return [
     'aliases' => Facade::defaultAliases()->merge([
         // ...
     ])->toArray(),
-
+    
+    'Markdown' => GrahamCampbell\Markdown\Facades\Markdown::class,
 ];

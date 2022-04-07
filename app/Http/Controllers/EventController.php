@@ -13,7 +13,7 @@ class EventController extends Controller
      */
     public function index()
     {
-        $data = Event::all();
+        $data = Event::orderBy('created_at', 'DESC')->get();
 
         return response()->json(["message" => "Correct request", "data" => $data]);
     }
