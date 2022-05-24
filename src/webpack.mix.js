@@ -11,9 +11,11 @@ const mix = require('laravel-mix');
  |
  */
 
-mix.js('resources/js/app.js', 'public/js')
+mix.setPublicPath('../');
+
+mix.js('resources/js/app.js', 'js')
     .react()
     .extract(['react'])
-    .postCss('resources/css/app.css', 'public/css', [
+    .postCss('resources/css/app.css', 'css', [
         //
     ]);
