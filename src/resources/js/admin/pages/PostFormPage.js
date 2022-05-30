@@ -50,7 +50,7 @@ function PostFormPage() {
     if (postId) {
       getData();
     }
-  }, [])
+  }, [postId])
 
   return (
     <div>
@@ -73,7 +73,7 @@ function PostFormPage() {
                 <button className='btn btn-primary'>{postId ? 'Actualizar' : 'Crear'} Pulicacion</button>
               </div>
               <label>
-                Contenido: <Editor onMount={handleEditorMount} defaultValue={initValues.content} onChange={handleEditorChange} height="500px" width="100%" language='markdown' theme='vs-dark'/>
+                Contenido: <Editor onMount={handleEditorMount} defaultValue={initValues.content} value={initValues.content} onChange={handleEditorChange} height="500px" width="100%" language='markdown' theme='vs-dark'/>
               </label>
           </fieldset>
           

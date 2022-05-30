@@ -18,4 +18,5 @@ mix.js('resources/js/app.js', 'js')
     .extract(['react'])
     .postCss('resources/css/app.css', 'css', [
         //
-    ]);
+    ])
+    .js('resources/js/custom.js', 'js');

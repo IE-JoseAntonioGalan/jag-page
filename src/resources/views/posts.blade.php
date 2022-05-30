@@ -3,20 +3,35 @@
 @section('page', $route_name)
 
 @section('content')
-    <div class="fs-1 mx-4 mb-2">Todas las publicaciones</div>
-    <div class="row card-deck px-4">
-        @foreach ($posts as $post)
-            <div class="col-md-4 mb-4" style="height: 40rem">
-                <div class="card h-100 shadow">
-                    <img class="card-img-top h-50" src="{{ $post->url_path }}" alt="{{ $post->title }}">
-                    <div class="card-body h-100 d-flex flex-column justify-content-between">
-                        <h2 class="card-title fs-4"><strong>{{ $post->title }}</strong></h2>
-                        <p class="card-text">{{ substr($post->content, 0, 300) }}...</p>
-                        <a class="btn btn-primary" href="{{ route($route_name.'_see', $post->id) }}">Ver mas ➤</a>
+    <!-- header section ends -->
+
+    <section class="heading-link">
+        <h3>{{ ucfirst(substr($_SERVER["REQUEST_URI"], 1)) }} de la Institución</h3>
+        <p> <a href="index.html">Inicio</a> / {{ ucfirst(substr($_SERVER["REQUEST_URI"], 1)) }} </p>
+    </section>
+
+    <section class="courses">
+
+        <h1 class="heading"> Todas Las Publicaciones </h1>
+
+        <div class="box-container">
+
+            @foreach ($posts as $post)
+                <div class="box">
+                    <div class="image">
+                        <img src="{{ $post->url_path }}" alt="{{ $post->title }}">
+                        <h3>Noticia #{{ $loop->index + 1 }}</h3>
+                    </div>
+                    <div class="content">
+                        <h3>{{ $post->title }}</h3>
+                        <p>{{ substr($post->content, 0, 300) }}...</p>
+                        <a href="{{ route($route_name . '_see', $post->id) }}" class="btn">Leer Más</a>
+                        <div class="icons">
+                            <span> <i class="fas fa-book"></i> Educativo </span>
+                            <span> <i class="fas fa-clock"></i> {{ explode(' ', $post->created_at)[0] }} </span>
+                        </div>
                     </div>
                 </div>
-            </div>
-        @endforeach
-    </div>
-    
+            @endforeach
+    </section>
 @endsection

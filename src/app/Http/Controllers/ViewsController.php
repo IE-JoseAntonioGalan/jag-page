@@ -19,6 +19,12 @@ class ViewsController extends Controller
 
         return view('index', ['site_data' => $site_data[0]]);
     }
+    public function about_us()
+    {
+        $site_data = SiteConfig::all();
+
+        return view('aboutUs', ['site_data' => $site_data[0]]);
+    }
 
     public function posts_view()
     {

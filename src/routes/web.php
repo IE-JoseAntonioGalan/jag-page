@@ -15,6 +15,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', [ViewsController::class, 'index']);
+Route::get('/nosotros', [ViewsController::class, 'about_us'])->name('About_us');
 Route::get('/noticias', [ViewsController::class, 'posts_view'])->name('News');
 Route::get('/noticias/{post_id}', [ViewsController::class, 'post_see_view'])->name('News_see');
 Route::get('/proyectos', [ViewsController::class, 'posts_view'])->name('Project');

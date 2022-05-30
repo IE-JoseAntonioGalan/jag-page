@@ -6,6 +6,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
+    <!-- Bootstrap CDN -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css">
+
     <!-- font awesome cdn link  -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
@@ -28,10 +31,10 @@
 
         <nav class="navbar">
             <div id="close-navbar" class="fas fa-times"></div>
-            <a href="index.html">Inicio</a>
-            <a href="noticias.html">Noticias</a>
-            <a href="eventos.html">Eventos</a>
-            <a href="proyectos.html">Proyectos</a>
+            <a href="/">Inicio</a>
+            <a href="{{ Route('News') }}">Noticias</a>
+            <a href="{{ Route('Event') }}">Eventos</a>
+            <a href="{{ Route('Project') }}">Proyectos</a>
         </nav>
 
         <div class="icons">
@@ -54,19 +57,51 @@
 
     <!-- header section ends -->
 
-    <main class="py-3 bg-dark bg-opacity-10">
-        <div class="container bg-white rounded px-0">
-            @yield('content')
-        </div>
-    </main>
+    @yield('content')
 
-    <footer class="bg-white text-lg-start">
-        <!-- Copyright -->
-        <div class="border border-top-4 text-center p-3">
-            © 2021 Copyright - Jose Antonio Galan
+    <section class="footer">
+
+        <div class="box-container">
+
+            <div class="box">
+                <h3> <i class=""></i> JAG </h3>
+                <p>Contamos con una variedad de Redes Sociales, en estas se pueden comunicar con nosotros.</p>
+                <div class="share">
+                    <a href="#" class="fab fa-facebook-f"></a>
+                    <a href="#" class="fab fa-twitter"></a>
+                    <a href="#" class="fab fa-instagram"></a>
+                    <a href="#" class="fab fa-linkedin"></a>
+                </div>
+            </div>
+
+            <div class="box">
+                <h3>Panel Link</h3>
+                <a href="/" class="link">Inicio</a>
+                <a href="{{ Route('News') }}" class="link">Noticias</a>
+                <a href="{{ Route('Event') }}" class="link">Eventos</a>
+                <a href="{{ Route('Project') }}" class="link">Proyectos</a>
+            </div>
+
+            <div class="box">
+                <h3>Ubicación</h3>
+                <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1701.8400922664268!2d-73.49051790529428!3d4.27239668756965!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3fd5be157e7aa1%3A0x477d8443aa0b1f54!2sColegio%20Jos%C3%A9%20Antonio%20Gal%C3%A1n!5e1!3m2!1ses!2sco!4v1652741482701!5m2!1ses!2sco"
+                    width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"
+                    referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+
         </div>
-        <!-- Copyright -->
-    </footer>
+
+        <div class="credit"> Manejo y Diseño Web <span>Programación de Software 11-2 JM</span> | © 2022
+            Copyright - José Antonio Galan </div>
+
+    </section>
+
+    <!-- swiper js link  -->
+    <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
+
+    <!-- custom js file link  -->
+    <script src="{{ asset('js/custom.js') }}"></script>
 </body>
 
 </html>
