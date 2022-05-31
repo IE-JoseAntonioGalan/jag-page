@@ -27,7 +27,7 @@
 
     <header class="header">
 
-        <a href="" class="logo"> <i class=""></i> JAG </a>
+        <a href="/" class="logo"> <i class=""></i> JAG </a>
 
         <nav class="navbar">
             <div id="close-navbar" class="fas fa-times"></div>
