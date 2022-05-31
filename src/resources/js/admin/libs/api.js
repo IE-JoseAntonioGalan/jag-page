@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URI = "http://localhost:8000/api/";
+const API_URI = process.env.MIX_API_URL;
 
 export const savePost = async (type, data) => {
   await axios.post(API_URI + type + '/create', data, {
