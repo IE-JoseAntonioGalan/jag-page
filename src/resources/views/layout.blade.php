@@ -18,7 +18,7 @@
     <!-- custom css file link  -->
     <link rel="stylesheet" href="{{ asset('css/app.css') }}">
 
-    <title>Jose Antonio Galan - @yield('page')</title>
+    <title>José Antonio Galán - @yield('page')</title>
 </head>
 
 <body>
@@ -33,7 +33,7 @@
             <div id="close-navbar" class="fas fa-times"></div>
             <a href="/">Inicio</a>
             <a href="{{ Route('News') }}">Noticias</a>
-            <a href="{{ Route('Event') }}">Eventos</a>
+            <a href="{{ Route('Event') }}">Actividades</a>
             <a href="{{ Route('Project') }}">Proyectos</a>
         </nav>
 
@@ -69,8 +69,7 @@
                 <div class="share">
                     <a href="#" class="fab fa-facebook-f"></a>
                     <a href="#" class="fab fa-twitter"></a>
-                    <a href="#" class="fab fa-instagram"></a>
-                    <a href="#" class="fab fa-linkedin"></a>
+                    <a href="https://www.instagram.com/joseantonio_galan1967" class="fab fa-instagram"></a>
                 </div>
             </div>
 
@@ -78,7 +77,7 @@
                 <h3>Panel Link</h3>
                 <a href="/" class="link">Inicio</a>
                 <a href="{{ Route('News') }}" class="link">Noticias</a>
-                <a href="{{ Route('Event') }}" class="link">Eventos</a>
+                <a href="{{ Route('Event') }}" class="link">Actividades</a>
                 <a href="{{ Route('Project') }}" class="link">Proyectos</a>
             </div>
 
@@ -93,7 +92,7 @@
         </div>
 
         <div class="credit"> Manejo y Diseño Web <span>Programación de Software 11-2 JM</span> | © 2022
-            Copyright - José Antonio Galan </div>
+            Copyright - José Antonio Galán </div>
 
     </section>
 

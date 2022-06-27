@@ -26,6 +26,13 @@ class ViewsController extends Controller
         return view('aboutUs', ['site_data' => $site_data[0]]);
     }
 
+        public function profesores()
+    {
+        $site_data = SiteConfig::all();
+
+        return view('profesores', ['site_data' => $site_data[0]]);
+    }
+
     public function posts_view()
     {
         $route_name = Route::currentRouteName();

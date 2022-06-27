@@ -49,7 +49,6 @@ section {
 
 .heading-link h3 {
   font-size: 4rem;
-  text-transform: capitalize;
   color: #444;
 }
 
@@ -71,7 +70,6 @@ section {
   text-align: center;
   margin-bottom: 3rem;
   font-size: 3.5rem;
-  text-transform: capitalize;
   color: #444;
 }
 
@@ -84,7 +82,6 @@ section {
   background: #f0fdfa;
   color: #0eb582;
   cursor: pointer;
-  text-transform: capitalize;
 }
 
 .btn:hover {
@@ -114,7 +111,6 @@ section {
 .header .logo {
   margin-right: auto;
   font-size: 2.5rem;
-  text-transform: capitalize;
   color: #444;
   font-weight: bolder;
 }
@@ -145,7 +141,6 @@ section {
 .header .navbar a {
   margin-right: 2rem;
   font-size: 2rem;
-  text-transform: capitalize;
   color: #444;
 }
 
@@ -223,10 +218,8 @@ section {
 
 .account-form form h3 {
   font-size: 2.5rem;
-  text-transform: capitalize;
   color: #444;
   padding-bottom: .5rem;
-  text-transform: uppercase;
 }
 
 .account-form form .box {
@@ -300,7 +293,6 @@ section {
 
 .home .slide .content h3 {
   font-size: 5rem;
-  text-transform: capitalize;
   color: #444;
   color: #fff;
 }
@@ -352,7 +344,6 @@ section {
 
 .subjects .box-container .box h3 {
   font-size: 1.7rem;
-  text-transform: capitalize;
   color: #444;
   padding: .5rem 0;
 }
@@ -385,7 +376,6 @@ section {
 
 .home-courses .slide .image h3 {
   font-size: 2rem;
-  text-transform: capitalize;
   color: #444;
 }
 
@@ -400,7 +390,6 @@ section {
 
 .home-courses .slide .content h3 {
   font-size: 2rem;
-  text-transform: capitalize;
   color: #444;
   color: #fff;
 }
@@ -447,7 +436,6 @@ section {
 
 .about .content .about-title {
   font-size: 3rem;
-  text-transform: capitalize;
   color: #444;
 }
 
@@ -482,7 +470,6 @@ section {
 .about .content .icons-container .icons h3 {
   padding: .5rem 0;
   font-size: 3rem;
-  text-transform: capitalize;
   color: #444;
 }
 
@@ -548,7 +535,6 @@ section {
 
 .teachers .slide .content h3 {
   font-size: 2rem;
-  text-transform: capitalize;
   color: #444;
 }
 
@@ -595,7 +581,6 @@ section {
 
 .reviews .slide h3 {
   font-size: 2.2rem;
-  text-transform: capitalize;
   color: #444;
   padding: .5rem 0;
 }
@@ -637,7 +622,6 @@ section {
 
 .courses .box-container .box .image h3 {
   font-size: 1.5rem;
-  text-transform: capitalize;
   color: #444;
   position: absolute;
   top: 1rem;
@@ -654,7 +638,6 @@ section {
 
 .courses .box-container .box .content h3 {
   font-size: 2rem;
-  text-transform: capitalize;
   color: #444;
 }
 
@@ -682,7 +665,6 @@ section {
 
 .courses .box-container .box .content .icons span {
   font-size: 1.5rem;
-  text-transform: capitalize;
   color: #444;
 }
 
@@ -725,7 +707,6 @@ section {
 
 .contact .icons-container .icons h3 {
   font-size: 2rem;
-  text-transform: capitalize;
   color: #444;
   padding: .5rem 0;
 }
@@ -768,7 +749,6 @@ section {
 
 .contact .row form h3 {
   font-size: 2.5rem;
-  text-transform: capitalize;
   color: #444;
   padding-bottom: 1rem;
 }
@@ -861,7 +841,6 @@ section {
 
 .faq .accordion-container .accordion .accordion-heading h3 {
   font-size: 2rem;
-  text-transform: capitalize;
   color: #444;
 }
 
@@ -902,7 +881,6 @@ section {
 
 .footer .box-container .box h3 {
   font-size: 2.2rem;
-  text-transform: capitalize;
   color: #444;
   padding: 1rem 0;
 }
@@ -963,7 +941,6 @@ section {
   margin-top: 3rem;
   padding-top: 3rem;
   font-size: 2rem;
-  text-transform: capitalize;
   color: #444;
   border-top: 0.1rem solid #0eb582;
 }
