@@ -66,7 +66,7 @@
             <div class="box">
                 <img src="images/modelo.png" alt="">
                 <h3>Modelo Pedagogico</h3>
-                <a href="#" class="btn">Leer</a>
+                <a href="{{ Route('Modelo') }}" class="btn">Leer</a>
                 <p></p>
             </div>
 

@@ -33,6 +33,13 @@ class ViewsController extends Controller
         return view('profesores', ['site_data' => $site_data[0]]);
     }
 
+    public function modelo()
+    {
+        $site_data = SiteConfig::all();
+
+        return view('modelo', ['site_data' => $site_data[0]]);
+    }
+
     public function posts_view()
     {
         $route_name = Route::currentRouteName();
