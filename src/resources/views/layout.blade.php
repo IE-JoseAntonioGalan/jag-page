@@ -19,6 +19,8 @@
     <link rel="stylesheet" href="{{ asset('css/app.css') }}">
 
     <title>José Antonio Galán - @yield('page')</title>
+    <link rel="shortcut icon" href="images/escudo.png">
+
 </head>
 
 <body>
