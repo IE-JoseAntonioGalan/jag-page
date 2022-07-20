@@ -10,7 +10,7 @@
 
    <section class="heading-link">
         <h3>Personal Administrativo</h3>
-    </section>
+    </section><br>
 
    <div class="swiper teachers-slider">
 
@@ -44,7 +44,7 @@
 
    <section class="heading-link">
         <h3>Profesores Jornada Mañana</h3>
-    </section>
+    </section><br>
 
    <div class="swiper teachers-slider">
 
@@ -67,7 +67,7 @@
 
    <section class="heading-link">
         <h3>Profesores Jornada Tarde</h3>
-    </section>
+    </section><br>
 
    <div class="swiper teachers-slider">
 
