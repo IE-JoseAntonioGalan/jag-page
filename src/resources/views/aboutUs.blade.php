@@ -12,7 +12,7 @@
     <section class="about">
 
         <div class="image">
-            <img src="images/infomision.jpg" alt="">
+            <img src="images/misiongalan.PNG" alt="">
         </div>
 
         <div class="content">
@@ -36,7 +36,7 @@
         </div>
 
         <div class="image">
-            <img src="images/infomision.jpg" alt="">
+            <img src="images/visiongalan.PNG" alt="">
         </div>
 
     </section>

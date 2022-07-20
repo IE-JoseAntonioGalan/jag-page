@@ -27,7 +27,7 @@
                         <p>{{ substr($post->content, 0, 300) }}...</p>
                         <a href="{{ route($route_name . '_see', $post->id) }}" class="btn">Leer Más</a>
                         <div class="icons">
-                            <span> <i class="fas fa-book"></i> Educativo </span>
+                            <span> <i class="fas fa-book"></i> IE José Antonio Galán </span>
                             <span> <i class="fas fa-clock"></i> {{ explode(' ', $post->created_at)[0] }} </span>
                         </div>
                     </div>
