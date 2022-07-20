@@ -6,11 +6,11 @@
 
 <!-- teachers PA section starts  -->
 
-<section class="teachers">
-
-   <section class="heading-link">
+<section class="heading-link">
         <h3>Personal Administrativo</h3>
-    </section><br><br>
+    </section>
+
+<section class="teachers">
 
    <div class="swiper teachers-slider">
 
@@ -40,11 +40,11 @@
 
 <!-- teachers JM section starts  -->
 
-<section class="teachers">
-
-   <section class="heading-link">
+<section class="heading-link">
         <h3>Profesores Jornada Mañana</h3>
-    </section><br><br>
+    </section>
+
+<section class="teachers">
 
    <div class="swiper teachers-slider">
 
@@ -63,11 +63,11 @@
 
 <!-- teachers JT section starts  -->
 
-<section class="teachers">
-
-   <section class="heading-link">
+<section class="heading-link">
         <h3>Profesores Jornada Tarde</h3>
-    </section><br><br>
+    </section>
+    
+<section class="teachers">
 
    <div class="swiper teachers-slider">
 
