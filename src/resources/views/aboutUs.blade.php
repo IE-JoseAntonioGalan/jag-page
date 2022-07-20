@@ -98,6 +98,14 @@ La bandera de nuestra institución consta de dos franjas una de color verde y la
 
     <!-- about section starts  -->
 
+    <section class="about">
+
+        <div class="image">
+            <img src="images/estructura.png" alt="">
+        </div>
+
+    </section>
+
     <!-- about section ends -->
 
     <section class="heading-link">
