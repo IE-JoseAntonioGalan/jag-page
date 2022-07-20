@@ -44,6 +44,55 @@
     <!-- about section ends -->
 
     <section class="heading-link">
+        <h3>Escudo</h3>
+    </section>
+
+    <!-- about section starts  -->
+
+    <section class="about">
+
+        <div class="image">
+            <img src="images/escudo.png" alt="">
+        </div>
+
+        <div class="content">
+            <p>
+                <b> LEMA: FORMANDO PRESENTE Y CONSTRUYENDO FUTURO CON ORGULLO GALANISTA. </b> <br>
+Está conformado por un ovalo ancho de color verde, símbolo de la Llanura, la esperanza y los triunfos de la juventud estudiosa, el óvalo lleva la cara del Líder Comunero en la parte interna superior, de quien tomamos el nombre de la Institución Educativa José Antonio Galán, lo acompañan un libro y un tintero con una pluma símbolo de la ciencia, la sabiduría y el arte de escribir, se entrelaza un festón rojo y amarillo dándole un tono de alegría e inteligencia, aspectos característicos de los estudiantes Galanistas. En la parte anterior, lo adorna el tricolor Nacional.
+
+            </p>
+        </div>
+
+    </section>
+
+    <!-- about section ends -->
+
+    <section class="heading-link">
+        <h3>La Bandera</h3>
+    </section>
+
+    <!-- about section starts  -->
+
+    <section class="about">
+
+        <div class="image">
+            <img src="images/bandera.png" alt="">
+        </div>
+
+        <div class="content">
+            <p>
+                <b> 
+La bandera de nuestra institución consta de dos franjas una de color verde y la otra blanca.  El color verde ocupa las dos terceras partes que  representan el crecimiento y la esperanza de nuestros jóvenes frente al mundo que los rodea, y el color blanco representa el optimismo, la bondad y la perfección de toda la comunidad educativa.
+
+
+            </p>
+        </div>
+
+    </section>
+
+    <!-- about section ends -->
+
+    <section class="heading-link">
         <h3>Organigrama</h3>
     </section>
 
