@@ -36,7 +36,7 @@
         </div>
 
         <div class="image">
-            <img src="images/visiongalan.PNG" alt="">
+            <img src="images/visiongalan.PNG " alt="">
         </div>
 
     </section>
