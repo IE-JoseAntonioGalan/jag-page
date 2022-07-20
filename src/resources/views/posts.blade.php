@@ -7,7 +7,7 @@
 
     <section class="heading-link">
         <h3>{{ ucfirst(substr($_SERVER["REQUEST_URI"], 1)) }} de la Institución</h3>
-        <p> <a href="index.html">Inicio</a> / {{ ucfirst(substr($_SERVER["REQUEST_URI"], 1)) }} </p>
+        <p> <a href="/">Inicio</a> / {{ ucfirst(substr($_SERVER["REQUEST_URI"], 1)) }} </p>
     </section>
 
     <section class="courses">
