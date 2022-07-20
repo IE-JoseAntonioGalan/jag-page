@@ -42,4 +42,21 @@
     </section>
 
     <!-- about section ends -->
+
+    <section class="heading-link">
+        <h3>Organigrama</h3>
+    </section>
+
+    <!-- about section starts  -->
+
+    <!-- about section ends -->
+
+    <section class="heading-link">
+        <h3>Himno IE José Antonio Galán</h3>
+    </section>
+
+    <!-- about section starts  -->
+
+    <!-- about section ends -->
+
 @endsection
