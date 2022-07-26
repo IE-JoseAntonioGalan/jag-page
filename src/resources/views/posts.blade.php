@@ -12,7 +12,7 @@
 
     <section class="courses">
 
-        <h1 class="heading"> Todas Las Publicaciones </h1>
+        <h1 class="heading"> Todas las Publicaciones </h1>
 
         <div class="box-container">
 
