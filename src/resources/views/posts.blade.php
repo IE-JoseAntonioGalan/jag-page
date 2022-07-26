@@ -20,7 +20,7 @@
                 <div class="box">
                     <div class="image">
                         <img src="{{ $post->url_path }}" alt="{{ $post->title }}">
-                        <h3>Noticia #{{ $loop->index + 1 }}</h3>
+                        
                     </div>
                     <div class="content">
                         <h3>{{ $post->title }}</h3>
