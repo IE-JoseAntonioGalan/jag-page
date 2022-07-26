@@ -45,7 +45,7 @@
             <div class="box">
                 <img src="images/historia.png" alt="">
                 <h3>Historia</h3>
-                <a href="{{ Route('About_us') }}" class="btn">Leer</a>
+                <a href="http://talentogalanista.blogspot.com/p/historia-del-colegio.html" class="btn">Leer</a>
                 <p></p>
             </div>
 
