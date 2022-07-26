@@ -70,6 +70,13 @@
                 <p></p>
             </div>
 
+            <div class="box">
+                <img src="images/informacion.png" alt="">
+                <h3>+Info</h3>
+                <a href="{{ Route('informacion') }}" class="btn">Leer</a>
+                <p></p>
+            </div>
+
         </div>
 
     </section>
