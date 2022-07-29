@@ -98,7 +98,7 @@
             </div>
 
             <div class="box">
-                <h3>Panel Link</h3>
+                <h3> <i class="fas fa-ghost"> Panel Link </i></h3>
                 <a href="/" class="link">Inicio</a>
                 <a href="{{ Route('News') }}" class="link">Noticias</a>
                 <a href="{{ Route('Event') }}" class="link">Actividades</a>
@@ -106,7 +106,7 @@
             </div>
 
             <div class="box">
-                <h3>Ubicación</h3>
+                <h3> <i class="fas fa-check"> Ubicación </i></h3>
                 <iframe
                     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1701.8400922664268!2d-73.49051790529428!3d4.27239668756965!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3fd5be157e7aa1%3A0x477d8443aa0b1f54!2sColegio%20Jos%C3%A9%20Antonio%20Gal%C3%A1n!5e1!3m2!1ses!2sco!4v1652741482701!5m2!1ses!2sco"
                     width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"
