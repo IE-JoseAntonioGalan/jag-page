@@ -29,7 +29,7 @@
 
     <header class="header">
 
-        <a href="/" class="logo"> <i class=""></i> JAG </a>
+        <a href="/" class="logo"> <i class="fas fa-graduation-cap"> JAG </i>  </a>
 
         <nav class="navbar">
             <div id="close-navbar" class="fas fa-times"></div>
@@ -40,7 +40,7 @@
         </nav>
 
         <div class="icons">
-            <div id="account-btn" class=""></div>
+            <div id="account-btn" class="fas fa-user"></div>
             <div id="menu-btn" class="fas fa-bars"></div>
         </div>
 
@@ -51,11 +51,33 @@
         <div id="close-form" class="fas fa-times"></div>
 
         <div class="buttons">
-            <span class="btn active login-btn"></span>
-            <span class="btn register-btn"></span>
+            <span class="btn active login-btn">Ingresar</span>
+            <span class="btn register-btn">Registrar</span>
         </div>
 
+        <form class="login-form active" action="">
+      <h3>Iniciar sesión</h3>
+      <input type="email" placeholder="Correo electrónico" class="box">
+      <input type="password" placeholder="Contraseña" class="box">
+      <div class="flex">
+         <input type="checkbox" name="" id="remember-me">
+         <label for="remember-me">Recordar</label>
+         <a href="#">¿Olvidó su contraseña?</a>
+      </div>
+      <input type="submit" value="Ingresar" class="btn">
+   </form>
+
+   <form class="register-form" action="">
+      <h3>Registrarte</h3>
+      <input type="name" placeholder="Nombre y Apellido" class="box">
+      <input type="email" placeholder="Correo electrónico" class="box">
+      <input type="password" placeholder="Contraseña nueva" class="box">
+      <input type="submit" value="Registrar" class="btn">
+   </form>
+
     </div>
+
+
 
     <!-- header section ends -->
 
@@ -66,11 +88,11 @@
         <div class="box-container">
 
             <div class="box">
-                <h3> <i class=""></i> JAG </h3>
+                <h3> <i class="fas fa-school"> IE JAG </i></h3>
                 <p>Contamos con una variedad de Redes Sociales, en estas se pueden comunicar con nosotros.</p>
                 <div class="share">
-                    <a href="#" class="fab fa-facebook-f"></a>
-                    <a href="#" class="fab fa-twitter"></a>
+                    <a href="https://es-la.facebook.com/GalanistasCumaral/" class="fab fa-facebook-f"></a>
+                    <a href="https://talentogalanista.blogspot.com/" class="fab fa-blogger"></a>
                     <a href="https://www.instagram.com/joseantonio_galan1967" class="fab fa-instagram"></a>
                 </div>
             </div>

@@ -10,7 +10,7 @@
 
             <div class="swiper-wrapper">
 
-                <section class="swiper-slide slide" style="background: url(./images/jag.jpeg) no-repeat;">
+                <section class="swiper-slide slide" style="background: url(./images/fondo.jpeg) no-repeat;">
                     <div class="content">
                         <h3>Al Margen de la Educación</h3>
                         <p>Es una institución oficial legalmente aprobada por la Secreataría de Educación del Meta y ofrece preescolar, primaria, básica secundaria y media académica y técnica en las jornadas mañana y tarde, con la sede José María Córdoba.</p>
@@ -85,7 +85,7 @@
 
     <section class="contact">
 
-        <h1 class="heading"> Contacto </h1>
+        <h1 class="heading"> Contactos </h1>
 
         <div class="icons-container">
 
@@ -123,4 +123,10 @@
         </div>
 
     </section>
+
+<!-- swiper js link  -->
+<script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
+
+<!-- custom js file link  -->
+<script src="src/resources/js/custom.js"></script>
 @endsection
