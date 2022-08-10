@@ -1,6 +1,6 @@
 @extends('layout')
 
-@section('page', 'Profesores')
+@section('page', 'Proyesores')
 
 @section('content')
     <section class="heading-link">
