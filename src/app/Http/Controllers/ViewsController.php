@@ -47,6 +47,13 @@ class ViewsController extends Controller
         return view('informacion', ['site_data' => $site_data[0]]);
     }
 
+    public function institucional()
+    {
+        $site_data = SiteConfig::all();
+
+        return view('institucional', ['site_data' => $site_data[0]]);
+    }
+
     public function posts_view()
     {
         $route_name = Route::currentRouteName();

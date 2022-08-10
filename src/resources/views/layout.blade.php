@@ -50,7 +50,7 @@ s0.parentNode.insertBefore(s1,s0);
             <a href="/">Inicio</a>
             <a href="{{ Route('News') }}">Noticias</a>
             <a href="{{ Route('Event') }}">Actividades</a>
-            <a href="{{ Route('Project') }}">Proyectos</a>
+            <a href="{{ Route('institucional') }}">Proyectos</a>
         </nav>
 
         <div class="icons">

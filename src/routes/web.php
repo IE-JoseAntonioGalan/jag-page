@@ -19,6 +19,7 @@ Route::get('/nosotros', [ViewsController::class, 'about_us'])->name('About_us');
 Route::get('/profesores', [ViewsController::class, 'profesores'])->name('Profesores');
 Route::get('/modelo', [ViewsController::class, 'modelo'])->name('Modelo');
 Route::get('/informacion', [ViewsController::class, 'informacion'])->name('informacion');
+Route::get('/institucional', [ViewsController::class, 'institucional'])->name('institucional');
 Route::get('/noticias', [ViewsController::class, 'posts_view'])->name('News');
 Route::get('/noticias/{post_id}', [ViewsController::class, 'post_see_view'])->name('News_see');
 Route::get('/proyectos', [ViewsController::class, 'posts_view'])->name('Project');
