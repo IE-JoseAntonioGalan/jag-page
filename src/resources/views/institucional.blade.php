@@ -1,6 +1,6 @@
 @extends('layout')
 
-@section('page', 'Proyesores')
+@section('page', 'Proyectos')
 
 @section('content')
     <section class="heading-link">
