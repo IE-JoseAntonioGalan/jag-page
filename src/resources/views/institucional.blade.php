@@ -17,7 +17,7 @@
       <div class="box">
          <div class="content">
             <h3>Proyecto Democracia</h3>
-            <iframe src="images/pdemo.pdf" height="400px" width="400px"></iframe>
+            <iframe src="images/pdemo.pdf" height="500px" width="500px"></iframe>
             <div class="icons">
             </div>
          </div>
@@ -28,7 +28,7 @@
       <div class="box">
          <div class="content">
             <h3>Proyecto Deportes</h3>
-            <iframe src="images/pdepo.pdf" height="400px" width="400px"></iframe>
+            <iframe src="images/pdepo.pdf" height="500px" width="500px"></iframe>
             <div class="icons">
             </div>
          </div>
@@ -39,7 +39,7 @@
       <div class="box">
          <div class="content">
             <h3>Proyecto Padres</h3>
-            <iframe src="images/ppadr.pdf" height="400px" width="400px"></iframe>
+            <iframe src="images/ppadr.pdf" height="500px" width="500px"></iframe>
             <div class="icons">
             </div>
          </div>

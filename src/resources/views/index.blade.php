@@ -92,20 +92,21 @@
             <div class="icons">
                 <i class="fas fa-clock"></i>
                 <h3> Horario de Atención en Secretaria :</h3>
+                <p>Lunes a Viernes</p>
                 <p>08:00am hasta 12:00m</p>
+                <p>02:00pm hasta 6:00pm</p>
             </div>
 
             <div class="icons">
                 <i class="fas fa-phone"></i>
                 <h3> Telefonos :</h3>
-                <p>6870170</p>
-                <p>3045856100</p>
+                <p>+573045856100</p>
             </div>
 
             <div class="icons">
                 <i class="fas fa-envelope"></i>
                 <h3> Correo Electronico : </h3>
-                <p>colegiogalan1967@gmail.com</p>
+                <p>colegiogalan1967@hotmail.com</p>
             </div>
 
             <div class="icons">

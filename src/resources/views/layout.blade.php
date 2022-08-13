@@ -116,7 +116,7 @@ s0.parentNode.insertBefore(s1,s0);
                 <a href="/" class="link">Inicio</a>
                 <a href="{{ Route('News') }}" class="link">Noticias</a>
                 <a href="{{ Route('Event') }}" class="link">Actividades</a>
-                <a href="{{ Route('Project') }}" class="link">Proyectos</a>
+                <a href="{{ Route('institucional') }}" class="link">Proyectos</a>
             </div>
 
             <div class="box">
