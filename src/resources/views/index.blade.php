@@ -91,7 +91,7 @@
 
             <div class="icons">
                 <i class="fas fa-clock"></i>
-                <h3> Horario de Atención en Secretaria :</h3>
+                <h3> Horario de Atención en Secretaría :</h3>
                 <p>Lunes a Viernes</p>
                 <p>08:00am hasta 12:00m</p>
                 <p>02:00pm hasta 6:00pm</p>
