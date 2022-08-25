@@ -44,6 +44,32 @@
     <!-- about section ends -->
 
     <section class="heading-link">
+        <h3>Valores</h3>
+    </section>
+
+    <!-- about section starts  -->
+
+    <section class="about">
+
+        <div class="content">
+            <p>
+        - Responsabilidad
+        - Respeto <br>
+        - Honestidad <br>
+        - Tolerancia <br>
+        - Equidad <br>
+        - Alteridad</p>
+        </div>
+
+        <div class="image">
+            <img src="images/visiongalan.PNG " alt="">
+        </div>
+
+    </section>
+
+    <!-- about section ends -->
+
+    <section class="heading-link">
         <h3>Escudo</h3>
     </section>
 
