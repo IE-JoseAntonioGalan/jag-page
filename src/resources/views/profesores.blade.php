@@ -7,7 +7,7 @@
 <!-- teachers PD section starts  -->
 
 <section class="heading-link">
-        <h3>Personal Directivo</h3>
+       <i class="fas fa-arrow-left"></i> <h3>Personal Directivo</h3> <i class="fas fa-arrow-right"></i>
     </section>
 
 <section class="teachers">
@@ -57,7 +57,7 @@
 <!-- teachers PA section starts  -->
 
 <section class="heading-link">
-        <h3>Personal Administrativo</h3>
+        <i class="fas fa-arrow-left"></i><h3>Personal Administrativo</h3><i class="fas fa-arrow-right"></i>
     </section>
 
 <section class="teachers">
@@ -118,7 +118,7 @@
 <!-- teachers PS section starts  -->
 
 <section class="heading-link">
-        <h3>Personal Servicios Generales</h3>
+        <i class="fas fa-arrow-left"></i><h3>Personal Servicios Generales</h3><i class="fas fa-arrow-right"></i>
     </section>
 
 <section class="teachers">
@@ -164,7 +164,8 @@
 <!-- teachers PT section starts  -->
 
 <section class="heading-link">
-        <h3>Profesores Modalidades</h3>
+
+        <i class="fas fa-arrow-left"></i><h3>Profesores Modalidades</h3><i class="fas fa-arrow-right"></i>
     </section>
     
 <section class="teachers">
@@ -200,7 +201,7 @@
 <!-- teachers JM section starts  -->
 
 <section class="heading-link">
-        <h3>Profesores Jornada Mañana</h3>
+        <i class="fas fa-arrow-left"></i><h3>Profesores Jornada Mañana</h3><i class="fas fa-arrow-right"></i>
     </section>
     
 <section class="teachers">
@@ -339,7 +340,7 @@
 <!-- teachers JT section starts  -->
 
 <section class="heading-link">
-        <h3>Profesores Jornada Tarde</h3>
+        <i class="fas fa-arrow-left"></i><h3>Profesores Jornada Tarde</h3><i class="fas fa-arrow-right"></i>
     </section>
     
 <section class="teachers">
