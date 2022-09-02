@@ -53,7 +53,7 @@
 
         <div class="content">
             <p>
-        - Responsabilidad
+        - Responsabilidad <br>
         - Respeto <br>
         - Honestidad <br>
         - Tolerancia <br>
