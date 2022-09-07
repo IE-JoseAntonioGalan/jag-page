@@ -3,7 +3,7 @@
 @section('page', $data->title)
 
 @section('content')
-    <div class=" w-100" style="height: 20rem">
+    <div class=" w-100" style="height: 30rem">
         <img src="{{ $data->url_path }}" alt="{{ $data->title }}" class="img-fluid h-100 w-100"
             style="object-fit: cover">
     </div>
