@@ -11,7 +11,7 @@
         <main class="px-4 pb-2">
             <h2 class="my-3 fs-1 text-center fw-bold">{{ $data->title }}</h2>
             <div class="mb-2 fs-4">{!! $data->content !!}</div>
-            <a class="text-muted text-decoration-none fs-4" href="{{ route($base_url) }}">🡐 Volver</a>
+            <a class="text-muted text-decoration-none fs-4" href="{{ route($base_url) }}">← Volver</a>
         </main>
     </div>
 
