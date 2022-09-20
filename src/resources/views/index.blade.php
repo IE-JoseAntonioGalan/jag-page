@@ -100,14 +100,14 @@
             <div class="icons">
                 <i class="fas fa-phone"></i>
                 <h3> Telefonos :</h3>
-                <p>+573045856100</p>
-            </div>
+                <p>+573045856100</p> <br>
 
-            <div class="icons">
                 <i class="fas fa-envelope"></i>
                 <h3> Correo Electronico : </h3>
                 <p>colegiogalan1967@hotmail.com</p>
             </div>
+
+           
 
             <div class="icons">
                 <i class="fas fa-map"></i>

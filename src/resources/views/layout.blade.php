@@ -101,6 +101,7 @@ s0.parentNode.insertBefore(s1,s0);
 
         <div class="box-container">
 
+
             <div class="box">
                 <h3> <i class="fas fa-school"> IE JAG </i></h3>
                 <p>Contamos con una variedad de Redes Sociales, en estas se pueden comunicar con nosotros.</p>
