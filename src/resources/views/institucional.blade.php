@@ -17,33 +17,46 @@
       <div class="box">
          <div class="content">
             <h3>Proyecto Democracia</h3>
-            <iframe src="images/pdemo.pdf" height="500px" width="500px"></iframe>
+            <iframe src="images/pdemo.pdf" width="100%" height="500px"></iframe>
             <div class="icons">
             </div>
          </div>
       </div>
-
-      <div class="box-container">
 
       <div class="box">
          <div class="content">
             <h3>Proyecto Deportes</h3>
-            <iframe src="images/pdepo.pdf" height="500px" width="500px"></iframe>
+            <iframe src="images/pdepo.pdf" width="100%" height="500px"></iframe>
             <div class="icons">
             </div>
          </div>
       </div>
 
-      <div class="box-container">
+   </div>
+
+<br>
+
+   <div class="box-container">
 
       <div class="box">
          <div class="content">
             <h3>Proyecto Padres</h3>
-            <iframe src="images/ppadr.pdf" height="500px" width="500px"></iframe>
+            <iframe src="images/ppadr.pdf" width="100%" height="500px"></iframe>
             <div class="icons">
             </div>
          </div>
       </div>
+
+      <div class="box">
+         <div class="content">
+            <h3>Proyecto Birding</h3>
+            <iframe src="images/pbird.pdf" width="100%" height="500px"></iframe>
+            <div class="icons">
+            </div>
+         </div>
+      </div>
+
+   </div>
 
 </section>
 
