@@ -49,7 +49,7 @@ s0.parentNode.insertBefore(s1,s0);
             <div id="close-navbar" class="fas fa-times"></div>
             <a href="/">Inicio</a>
             <a href="{{ Route('News') }}">Noticias</a>
-            <a href="{{ Route('Event') }}">Actividades</a>
+            <a href="{{ Route('actividades') }}">Actividades</a>
             <a href="{{ Route('institucional') }}">Proyectos</a>
             <a href="test-generator" class="fas fa-award"></a>
         </nav>
