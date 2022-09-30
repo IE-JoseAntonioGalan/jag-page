@@ -5,9 +5,9 @@ class Database {
 
     private $DB_HOST = 'localhost';
     private $DB_PORT = 3306;
-    private $DB_DATABASE = 'test_generator';
-    private $DB_USERNAME = 'root';
-    private $DB_PASSWORD = '';
+    private $DB_DATABASE = 'u518908583_test_generator';
+    private $DB_USERNAME = 'u518908583_paginaweb';
+    private $DB_PASSWORD = 'Testgenerator2022';
 
     public function __construct()
     {
