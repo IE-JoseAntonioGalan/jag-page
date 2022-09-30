@@ -13,6 +13,7 @@
 
     <!-- Custom css -->
     <link rel="stylesheet" href="./css/main.css">
+    <link rel="shortcut icon" href="template/feria.png">
 </head>
 <body>
 

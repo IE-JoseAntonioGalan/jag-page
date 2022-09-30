@@ -51,7 +51,7 @@ s0.parentNode.insertBefore(s1,s0);
             <a href="{{ Route('News') }}">Noticias</a>
             <a href="{{ Route('actividades') }}">Actividades</a>
             <a href="{{ Route('institucional') }}">Proyectos</a>
-            <a href="test-generator" class="fas fa-award"></a>
+            <a href="https://simulacroicfes.ie-joseagalan.com.co/" class="fas fa-award"></a>
         </nav>
 
         <div class="icons">
