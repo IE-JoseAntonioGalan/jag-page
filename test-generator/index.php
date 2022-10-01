@@ -49,7 +49,7 @@ include('./template/header.php'); ?>
         </div>
 
         <button type="submit" class="btn btn-primary">Ingresar</button>
-        <a href="/register.php" class="text-white mt-2 text-center">Registrarme</a><br><br>
+        <a href="/register.php" class="text-white mt-2 text-center">Registrarme</a>
     </div>
 </form>
 
