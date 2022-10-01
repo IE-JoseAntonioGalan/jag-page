@@ -10,7 +10,6 @@
 .autoridad{
 	position: relative;
 }
-
 .position-absoluta{
 	position: sticky;
 	z-index:2;
