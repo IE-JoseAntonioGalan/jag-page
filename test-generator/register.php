@@ -33,7 +33,7 @@ include('./template/header.php');
     <div class="card-body d-flex flex-column">
         <div class="mb-3">
             <label for="fullname" class="form-label">Nombre completo</label>
-            <input name="fullname" type="text" class="form-control" id="fullname" placeholder="Andres Felipe Rojas Gonzalez" required>
+            <input name="fullname" type="text" class="form-control" id="fullname" placeholder="Digite su nombre" required>
         </div>
         <div class="mb-3">
             <label for="email" class="form-label">Email</label>
