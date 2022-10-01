@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Test generator - Administrador</title>
+    <title>Simulacro Icfes - Admin</title>
 
     <!-- Bootswatch import -->    
     <link rel="stylesheet" href="../css/bootstrap.min.css">
@@ -13,6 +13,7 @@
 
     <!-- Custom css -->
     <link rel="stylesheet" href="./css/main.css">
+    <link rel="shortcut icon" href="template/feria.png">
 </head>
 <body>
      <!-- Navbar -->
