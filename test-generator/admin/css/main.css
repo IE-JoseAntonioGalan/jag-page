@@ -9,14 +9,13 @@
 
 .autoridad{
 	position: relative;
-	background-color: #505c6c;
 }
+
 .position-absoluta{
 	position: sticky;
 	z-index:2;
 	width: 100%;
 	top: 0;
-	background-color: #505c6c;
 }
 
 .cuerpo-title{

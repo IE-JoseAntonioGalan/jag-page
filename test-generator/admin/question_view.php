@@ -6,7 +6,7 @@ include('./template/header.php');
 
 <form method="post" action="add_question.php?title=<?= $_GET['title'] ?>" class="card w-75 mt-4 mx-auto ">
     <div class="autoridad">
-    <div class="card-header d-flex align-items-center justify-content-between position-absoluta">
+    <div class="card-header d-flex align-items-center justify-content-between position-absoluta" style="background: rgb(15,37,55);">
         <p class="fs-3 mb-0">Añadir una nueva pregunta</p>
         <button class="btn btn-lg btn-primary" type="submit">Crear pregunta</button>
     </div>
