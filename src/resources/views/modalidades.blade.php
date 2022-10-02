@@ -37,7 +37,7 @@
 
 <!-- software section ends -->
 
-<!-- software section starts  -->
+<!-- multimedia section starts  -->
 
    <section class="heading-link">
         <h3>DISEÑO E INTEGRACIÓN DE MULTIMEDIA</h3> 
@@ -61,7 +61,7 @@
 
    </section>
 
-<!-- software section ends -->
+<!-- multimedia section ends -->
 
 <!-- swiper js link  -->
 <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>

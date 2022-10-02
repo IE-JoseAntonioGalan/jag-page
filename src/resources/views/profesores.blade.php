@@ -24,9 +24,11 @@
                </div>
             </div>
             <div class="content">
-               <h3>Marco Fidel Parrado Parrado <br><br>
-                   Rector del Colegio <br><br>
-                Lic. Administración y supervision Educativa </h3>
+               <h3>
+                  <button type="button" class="btn btn-secondary disabled"><i class="fa fa-user"></i> Marco Fidel Parrado Parrado </button> 
+                  <br><br>
+               Rector del Colegio <br><br>
+               Lic. Administración y supervision Educativa </h3>
             </div>
          </div>
 
@@ -38,8 +40,10 @@
                </div>
             </div>
             <div class="content">
-               <h3>Alvaro Vidal Velasquez Velasquez <br><br>
-                   Coordinador : Disciplinario Jornada Mañana  <br><br>
+               <h3>
+                  <button type="button" class="btn btn-secondary disabled"><i class="fa fa-user"></i> Alvaro Vidal Velasquez Velasquez </button> 
+                  <br><br>
+                Coordinador : Disciplinario Jornada Mañana  <br><br>
                 Lic. Artes plásticas Audio visuales  <br><br>
                 Especializaciones : Legislación Educativa y procedimiento administrativo, pedagogía Ambiental </h3>
             </div>
@@ -74,7 +78,9 @@
                </div>
             </div>
             <div class="content">
-               <h3>Ana Faride Campos Roa  <br><br>
+               <h3>
+                  <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-tasks"></i> Ana Faride Campos Roa </button> 
+                  <br><br>
                   Auxiliar Administrativa *Pensionada* <br><br>
                15 de febrero 1985 - 15 de Julio de 2022 </h3>
             </div>
@@ -176,7 +182,39 @@
 
          <div class="swiper-slide slide">
             <div class="image">
-               <img src="images/PT_OscarAlba.jpg" alt="">
+               <img src="images/PT_ (1).JPG" alt="">
+               <div class="">
+                  <a></a>
+               </div>
+            </div>
+            <div class="content">
+               <h3>Oscar Iván Alba Betancourt   <br><br>
+                   Modalidad: Diseño e Integración de Multimedia <br><br>
+                   Lic. Ingeniero sistemas  <br><br>
+                   Director área Media Técnica   <br><br>
+                Proyecto que forma parte: Consejo académico, Tiempo libre  </h3>
+            </div>
+         </div>
+
+         <div class="swiper-slide slide">
+            <div class="image">
+               <img src="images/PT_ (2).JPG" alt="">
+               <div class="">
+                  <a></a>
+               </div>
+            </div>
+            <div class="content">
+               <h3>Oscar Iván Alba Betancourt   <br><br>
+                   Modalidad: Diseño e Integración de Multimedia <br><br>
+                   Lic. Ingeniero sistemas  <br><br>
+                   Director área Media Técnica   <br><br>
+                Proyecto que forma parte: Consejo académico, Tiempo libre  </h3>
+            </div>
+         </div>
+
+         <div class="swiper-slide slide">
+            <div class="image">
+               <img src="images/PT_ (3).JPG" alt="">
                <div class="">
                   <a></a>
                </div>
