@@ -11,12 +11,10 @@
     </section>
 
 <section class="teachers">
-
    <div class="swiper teachers-slider">
-
       <div class="swiper-wrapper">
 
-         <div class="swiper-slide slide">
+         <div class="swiper-slide slide" style="border: 2px outset;">
             <div class="image">
                <img src="images/PD_MarcoParrado.jpg" alt="">
                <div class="">
@@ -32,7 +30,7 @@
             </div>
          </div>
 
-         <div class="swiper-slide slide">
+         <div class="swiper-slide slide" style="border: 2px outset;">
             <div class="image">
                <img src="images/PD_AlvaroVelasquez.jpg" alt="">
                <div class="">
@@ -65,12 +63,10 @@
     </section>
 
 <section class="teachers">
-
    <div class="swiper teachers-slider">
-
       <div class="swiper-wrapper">
 
-         <div class="swiper-slide slide">
+         <div class="swiper-slide slide" style="border: 2px outset;">
             <div class="image">
                <img src="images/PA_AnaFaride.jpg" alt="">
                <div class="">
@@ -86,7 +82,7 @@
             </div>
          </div>
 
-         <div class="swiper-slide slide">
+         <div class="swiper-slide slide" style="border: 2px outset;">
             <div class="image">
                <img src="images/PA_WilsonLadino.jpg" alt="">
                <div class="">
@@ -94,12 +90,14 @@
                </div>
             </div>
             <div class="content">
-               <h3>Wilson Yesir Ladino Chitiva <br><br>
+               <h3>
+                  <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-tasks"></i> Wilson Yesir Ladino Chitiva </button> 
+                  <br><br>
                   Secretario - Bibliotecario</h3>
             </div>
          </div>
 
-         <div class="swiper-slide slide">
+         <div class="swiper-slide slide" style="border: 2px outset;">
             <div class="image">
                <img src="images/PA_LauraHerrera.jpg" alt="">
                <div class="">
@@ -107,7 +105,9 @@
                </div>
             </div>
             <div class="content">
-               <h3>Laura Ines Herrera Carrillo <br><br>
+               <h3>
+                  <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-tasks"></i> Laura Ines Herrera Carrillo </button> 
+                  <br><br>
                   Secretaria Académica </h3>
             </div>
          </div>
@@ -128,12 +128,10 @@
     </section>
 
 <section class="teachers">
-
    <div class="swiper teachers-slider">
-
       <div class="swiper-wrapper">
 
-         <div class="swiper-slide slide">
+         <div class="swiper-slide slide" style="border: 2px outset;">
             <div class="image">
                <img src="images/PS_NorbelPeña.jpg" alt="">
                <div class="">
@@ -141,12 +139,14 @@
                </div>
             </div>
             <div class="content">
-               <h3>Felipe Norbel Velasquez Peña  <br><br>
+               <h3>
+                  <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-unlock-alt"></i> Felipe Norbel Velasquez Peña </button>
+                  <br><br>
                Celador </h3>
             </div>
          </div>
 
-         <div class="swiper-slide slide">
+         <div class="swiper-slide slide" style="border: 2px outset;">
             <div class="image">
                <img src="images/PS_Aguirre.jpg" alt="">
                <div class="">
@@ -154,8 +154,10 @@
                </div>
             </div>
             <div class="content">
-               <h3>Jhonathan Aguirre Neisa  <br><br>
-                  Celador </h3>
+               <h3>
+                  <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-unlock-alt"></i> Jhonathan Aguirre Neisa </button>
+                  <br><br>
+               Celador </h3>
             </div>
          </div>
       
@@ -175,12 +177,10 @@
     </section>
     
 <section class="teachers">
-
    <div class="swiper teachers-slider">
-
       <div class="swiper-wrapper">
 
-         <div class="swiper-slide slide">
+         <div class="swiper-slide slide" style="border: 2px outset;">
             <div class="image">
                <img src="images/PT_ (1).JPG" alt="">
                <div class="">
@@ -188,15 +188,15 @@
                </div>
             </div>
             <div class="content">
-               <h3>Oscar Iván Alba Betancourt   <br><br>
-                   Modalidad: Diseño e Integración de Multimedia <br><br>
-                   Lic. Ingeniero sistemas  <br><br>
-                   Director área Media Técnica   <br><br>
-                Proyecto que forma parte: Consejo académico, Tiempo libre  </h3>
+               <h3>
+                  <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-trophy"></i> Jorge Alejandro Obando Bastidas </button>
+                  <br><br>
+                   Modalidad: Programación de Software 
+                   </h3>
             </div>
          </div>
 
-         <div class="swiper-slide slide">
+         <div class="swiper-slide slide" style="border: 2px outset;">
             <div class="image">
                <img src="images/PT_ (2).JPG" alt="">
                <div class="">
@@ -204,7 +204,9 @@
                </div>
             </div>
             <div class="content">
-               <h3>Oscar Iván Alba Betancourt   <br><br>
+               <h3>
+                  <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-trophy"></i> Oscar Iván Alba Betancourt </button>
+                  <br><br>
                    Modalidad: Diseño e Integración de Multimedia <br><br>
                    Lic. Ingeniero sistemas  <br><br>
                    Director área Media Técnica   <br><br>
@@ -212,7 +214,7 @@
             </div>
          </div>
 
-         <div class="swiper-slide slide">
+         <div class="swiper-slide slide" style="border: 2px outset;">
             <div class="image">
                <img src="images/PT_ (3).JPG" alt="">
                <div class="">
@@ -220,11 +222,11 @@
                </div>
             </div>
             <div class="content">
-               <h3>Oscar Iván Alba Betancourt   <br><br>
-                   Modalidad: Diseño e Integración de Multimedia <br><br>
-                   Lic. Ingeniero sistemas  <br><br>
-                   Director área Media Técnica   <br><br>
-                Proyecto que forma parte: Consejo académico, Tiempo libre  </h3>
+               <h3>
+                  <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-trophy"></i> Franco </button>
+                  <br><br>
+                   Modalidad: Contablilidad
+                </h3>
             </div>
          </div>
       
@@ -243,12 +245,10 @@
     </section>
     
 <section class="teachers">
-
    <div class="swiper teachers-slider">
-
       <div class="swiper-wrapper">
 
-         <div class="swiper-slide slide">
+         <div class="swiper-slide slide" style="border: 2px outset;">
             <div class="image">
                <img src="images/JM_JavierMartinez.jpg" alt="">
                <div class="">
@@ -256,13 +256,15 @@
                </div>
             </div>
             <div class="content">
-               <h3>Javier Enrique Martínez Torres  <br><br>
+               <h3>
+                  <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-graduation-cap"></i> Javier Enrique Martínez Torres </button>
+                  <br><br>
                    Lic. Ciencias Sociales- Didáctica  <br><br>
                 Proyecto que forma parte: Espiritualidad </h3>
             </div>
          </div>
 
-         <div class="swiper-slide slide">
+         <div class="swiper-slide slide" style="border: 2px outset;">
             <div class="image">
                <img src="images/JM_DenisseAcosta.jpg" alt="">
                <div class="">
@@ -270,13 +272,15 @@
                </div>
             </div>
             <div class="content">
-               <h3>Denisse Acosta Martínez <br><br>
+               <h3>
+                  <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-graduation-cap"></i> Denisse Acosta Martínez </button>
+                  <br><br>
                   Lic. Administradora Educativa en Énfasis Ciencia Sociales  <br><br>
                 Proyecto que forma parte: Derechos humanos </h3>
             </div>
          </div>
 
-         <div class="swiper-slide slide">
+         <div class="swiper-slide slide" style="border: 2px outset;">
             <div class="image">
                <img src="images/JM_ErnestoBustamante.jpg" alt="">
                <div class="">
@@ -284,7 +288,9 @@
                </div>
             </div>
             <div class="content">
-               <h3>Ernesto Bustamante Reyes <br><br>
+               <h3>
+                  <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-graduation-cap"></i> Ernesto Bustamante Reyesz </button>
+                  <br><br>
                   Lic.  Filosofía y Música <br><br>
                   Especialista en Educación Cultura y política  <br><br>
                   Mayister tecnología educativa y competencia digitales  <br><br>
@@ -292,7 +298,7 @@
             </div>
          </div>
 
-         <div class="swiper-slide slide">
+         <div class="swiper-slide slide" style="border: 2px outset;">
             <div class="image">
                <img src="images/JM_MariaAcuña.jpg" alt="">
                <div class="">
@@ -306,7 +312,7 @@
             </div>
          </div>
 
-         <div class="swiper-slide slide">
+         <div class="swiper-slide slide" style="border: 2px outset;">
             <div class="image">
                <img src="images/JM_RichardParrado.jpg" alt="">
                <div class="">
@@ -322,7 +328,7 @@
             </div>
          </div>
 
-         <div class="swiper-slide slide">
+         <div class="swiper-slide slide" style="border: 2px outset;">
             <div class="image">
                <img src="images/JM_AlbaSegovia.jpg" alt="">
                <div class="">
@@ -337,7 +343,7 @@
             </div>
          </div>
 
-         <div class="swiper-slide slide">
+         <div class="swiper-slide slide" style="border: 2px outset;">
             <div class="image">
                <img src="images/JM_MariaTorres.jpg" alt="">
                <div class="">
@@ -352,7 +358,7 @@
             </div>
          </div>
 
-         <div class="swiper-slide slide">
+         <div class="swiper-slide slide" style="border: 2px outset;">
             <div class="image">
                <img src="images/JM_GloriaMorales.jpg" alt="">
                <div class="">
@@ -382,12 +388,10 @@
     </section>
     
 <section class="teachers">
-
    <div class="swiper teachers-slider">
-
       <div class="swiper-wrapper">
 
-         <div class="swiper-slide slide">
+         <div class="swiper-slide slide" style="border: 2px outset;">
             <div class="image">
                <img src="images/JT_LuisGabriel.jpg" alt="">
                <div class="">
@@ -402,7 +406,7 @@
             </div>
          </div>
 
-         <div class="swiper-slide slide">
+         <div class="swiper-slide slide" style="border: 2px outset;">
             <div class="image">
                <img src="images/JT_RafaelBeltran.jpg" alt="">
                <div class="">
@@ -417,7 +421,7 @@
             </div>
          </div>
 
-         <div class="swiper-slide slide">
+         <div class="swiper-slide slide" style="border: 2px outset;">
             <div class="image">
                <img src="images/JT_DaryisMuñoz.jpg" alt="">
                <div class="">
@@ -431,7 +435,7 @@
             </div>
          </div>
 
-         <div class="swiper-slide slide">
+         <div class="swiper-slide slide" style="border: 2px outset;">
             <div class="image">
                <img src="images/JT_LibiaGuevara.jpg" alt="">
                <div class="">
@@ -446,7 +450,7 @@
             </div>
          </div>
 
-         <div class="swiper-slide slide">
+         <div class="swiper-slide slide" style="border: 2px outset;">
             <div class="image">
                <img src="images/JT_OmarRodriguez.jpg" alt="">
                <div class="">
@@ -461,7 +465,7 @@
             </div>
          </div>
 
-         <div class="swiper-slide slide">
+         <div class="swiper-slide slide" style="border: 2px outset;">
             <div class="image">
                <img src="images/JT_GladysMoreno.jpg" alt="">
                <div class="">
@@ -476,7 +480,7 @@
             </div>
          </div>
 
-         <div class="swiper-slide slide">
+         <div class="swiper-slide slide" style="border: 2px outset;">
             <div class="image">
                <img src="images/JT_JorgeFierro.jpg" alt="">
                <div class="">
@@ -491,7 +495,7 @@
             </div>
          </div>
 
-         <div class="swiper-slide slide">
+         <div class="swiper-slide slide" style="border: 2px outset;">
             <div class="image">
                <img src="images/JT_CristianGonzalez.jpg" alt="">
                <div class="">
@@ -506,7 +510,7 @@
             </div>
          </div>
 
-         <div class="swiper-slide slide">
+         <div class="swiper-slide slide" style="border: 2px outset;">
             <div class="image">
                <img src="images/JT_AndersonRomero.jpg" alt="">
                <div class="">
