@@ -61,6 +61,13 @@ class ViewsController extends Controller
         return view('actividades', ['site_data' => $site_data[0]]);
     }
 
+    public function modalidades()
+    {
+        $site_data = SiteConfig::all();
+
+        return view('modalidades', ['site_data' => $site_data[0]]);
+    }
+
     public function posts_view()
     {
         $route_name = Route::currentRouteName();

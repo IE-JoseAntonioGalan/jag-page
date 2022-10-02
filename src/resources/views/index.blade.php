@@ -59,7 +59,7 @@
             <div class="box">
                 <img src="images/escudo.png" alt="">
                 <h3>Modalidades</h3>
-                <a href="#" class="btn">Leer</a>
+                <a href="{{ Route('modalidades') }}" class="btn">Leer</a>
                 <p></p>
             </div>
 
