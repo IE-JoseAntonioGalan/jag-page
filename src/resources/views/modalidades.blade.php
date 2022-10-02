@@ -47,11 +47,11 @@
 
         <div class="contenedor-imagenes">
         <img src="images/mul1.jpg" width="50%" height="50%"> 
-        <img src="images/mul2.JPG" width="50%" height="50%">
+        <img src="images/mul2.jpg" width="50%" height="50%">
         </div>
 
         <div class="contenedor-imagenes">
-        <img src="images/mult3.jpeg" width="50%" height="50%"> 
+        <img src="images/mul3.jpeg" width="50%" height="50%"> 
         <img src="images/mul4.jpeg" width="50%" height="50%">
         </div>
 
