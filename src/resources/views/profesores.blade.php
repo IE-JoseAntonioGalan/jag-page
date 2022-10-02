@@ -289,7 +289,7 @@
             </div>
             <div class="content">
                <h3>
-                  <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-graduation-cap"></i> Ernesto Bustamante Reyesz </button>
+                  <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-graduation-cap"></i> Ernesto Bustamante Reyes </button>
                   <br><br>
                   Lic.  Filosofía y Música <br><br>
                   Especialista en Educación Cultura y política  <br><br>
@@ -306,7 +306,9 @@
                </div>
             </div>
             <div class="content">
-               <h3>María Acuña Ramírez <br><br>
+               <h3>
+                  <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-graduation-cap"></i> María Adriana Acuña Ramírez </button>
+                  <br><br>
                   Lic. Lingüística y literatura <br><br>
                 Proyecto que forma parte: Escuela de Padres</h3>
             </div>
@@ -320,7 +322,9 @@
                </div>
             </div>
             <div class="content">
-               <h3>Richard Vladimir Parrado Muñoz <br><br>
+               <h3>
+                  <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-graduation-cap"></i> Richard Vladimir Parrado Muñoz </button>
+                  <br><br>
                   Lic. Filosofía pensamiento político y económico  <br><br>
                   Especialista en Información informática educativa <br><br>
                   Mayister tecnología Aplicada a la educación <br><br>
@@ -336,7 +340,9 @@
                </div>
             </div>
             <div class="content">
-               <h3>Alba Alexandra del pilar Segovia Romero  <br><br>
+               <h3>
+                  <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-graduation-cap"></i> Alba Alexandra del pilar Segovia Romero </button>
+                  <br><br>
                   Lic.  Biología y Química  <br><br>
                   Especialista en Educación Ambiental <br><br>
                 Proyecto que forma parte: Educación sexual </h3>
@@ -351,7 +357,9 @@
                </div>
             </div>
             <div class="content">
-               <h3>María Eugenia Torres Gordillo  <br><br>
+               <h3>
+                  <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-graduation-cap"></i> María Eugenia Torres Gordillo </button>
+                  <br><br>
                   Lic. Química <br><br>
                   Especialista Educación Ambiental <br><br>
                 Proyecto que forma parte: Educación sexual </h3>
@@ -366,7 +374,9 @@
                </div>
             </div>
             <div class="content">
-               <h3>Gloria Esperanza Morales Barridos  <br><br>
+               <h3>
+                  <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-graduation-cap"></i> Gloria Esperanza Morales Barridos </button>
+                  <br><br>
                   Lic. Educación Artística  <br><br>
                   Especializacion : Pedagogía ludica <br><br>
                 Proyecto que forma parte: Escuela de padres </h3>
@@ -399,7 +409,9 @@
                </div>
             </div>
             <div class="content">
-               <h3>Luis Gabriel Guerra Rojas <br><br>
+               <h3>
+                  <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-graduation-cap"></i> Luis Gabriel Guerra Rojas </button>
+                  <br><br>
                   Lic. Artes Plásticas <br><br>
                   Grados a los que les dicta clase: 6°,7°,8°,9°,10° y 11°<br><br>
                 Proyecto que forma parte: Escuela de Padres</h3>
@@ -414,7 +426,9 @@
                </div>
             </div>
             <div class="content">
-               <h3>Rafael Eduardo Beltran Nicholl’s<br><br>
+               <h3>
+                  <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-graduation-cap"></i> Rafael Eduardo Beltran Nicholl’s </button>
+                  <br><br>
                   Lic. Filosofía y Sociales <br><br>
                   Grados a los que les dicta clase: 7°,8°,9°,10° y 11°<br><br>
                 Proyecto que forma parte: Derechos Humanos, La campana, Música y Novena</h3>
@@ -429,7 +443,9 @@
                </div>
             </div>
             <div class="content">
-               <h3>Daryis Nedrid Muñoz Rondon<br><br>
+               <h3>
+                  <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-graduation-cap"></i> Daryis Nedrid Muñoz Rondon </button>
+                  <br><br>
                   Lic. Humanidades, Castellano con énfasis en inglés como lengua extranjera <br><br>
                   Grados a los que les dicta clase: 7°,8°,10° y 11°<br><br></h3>
             </div>
@@ -443,7 +459,9 @@
                </div>
             </div>
             <div class="content">
-               <h3>Libia Consuelo Guevara Parrado <br><br>
+               <h3>
+                  <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-graduation-cap"></i> Libia Consuelo Guevara Parrado </button>
+                  <br><br>
                   Lic. Inglés y Español <br><br>
                   Grados a los que les dicta clase: 6°,7°,8°,9°,10° y 11°<br><br>
                 Proyecto que forma parte: Escuela de Padres</h3>
@@ -458,7 +476,9 @@
                </div>
             </div>
             <div class="content">
-               <h3>Omar Fredy Rodriguez <br><br>
+               <h3>
+                  <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-graduation-cap"></i> Omar Fredy Rodriguez </button>
+                  <br><br>
                   Lic. Matemáticas y Física <br><br>
                   Grados a los que les dicta clase: 8°,9° y 11°<br><br>
                 Proyecto que forma parte: Tiempo Libre</h3>
@@ -473,7 +493,9 @@
                </div>
             </div>
             <div class="content">
-               <h3>Gladys Moreno Herrera <br><br>
+               <h3>
+                  <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-graduation-cap"></i> Gladys Moreno Herrera </button>
+                  <br><br>
                   Lic. Matemáticas y Física <br><br>
                   Grados a los que les dicta clase: 6°,7°,10° y 11°<br><br>
                 Proyecto que forma parte: PRAE</h3>
@@ -488,7 +510,9 @@
                </div>
             </div>
             <div class="content">
-               <h3>Jorge Alexander Fierro Castro <br><br>
+               <h3>
+                  <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-graduation-cap"></i> Jorge Alexander Fierro Castro </button>
+                  <br><br>
                   Lic. Educación Física - Magíster <br><br>
                   Grados a los que les dicta clase: 6°,7°,8°,9°,10° y 11°<br><br>
                 Proyecto que forma parte: Director de Tiempo Libre</h3>
@@ -503,7 +527,9 @@
                </div>
             </div>
             <div class="content">
-               <h3>Cristian Leonardo González <br><br>
+               <h3>
+                  <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-graduation-cap"></i> Cristian Leonardo González </button>
+                  <br><br>
                   Lic. Química <br><br>
                   Grados a los que les dicta clase: 7°,10° y 11°<br><br>
                 Proyecto que forma parte: Gestión de Riesgos</h3>
@@ -518,7 +544,9 @@
                </div>
             </div>
             <div class="content">
-               <h3>Anderson Romero Bobadilla <br><br>
+               <h3>
+                  <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-graduation-cap"></i> Anderson Romero Bobadilla </button>
+                  <br><br>
                   Lic. Lengua Castellana y Comunicación <br><br>
                   Grados a los que les dicta clase: 9°,10° y 11°<br><br>
                 Proyecto que forma parte: PRAE</h3>
