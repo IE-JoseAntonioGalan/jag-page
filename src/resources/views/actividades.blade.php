@@ -58,6 +58,26 @@
 
    </div>
 
+<br>
+
+    <div class="box-container">
+
+      <div class="box">
+         <div class="content">
+            <h3>Novena Navideña</h3>
+            <iframe src="images/navidad.pdf" width="50%" height="500px"></iframe>
+            <div class="icons">
+            </div>
+         </div>
+      </div>
+
+      
+
+   </div>
+
+
+
+
 
 
    </div>

@@ -47,6 +47,7 @@ s0.parentNode.insertBefore(s1,s0);
 
         <nav class="navbar">
             <div id="close-navbar" class="fas fa-times"></div>
+            <a href="{{ Route('News') }}"><button type="button" class="btn btn-outline-danger active"><i class="fa fa-exclamation-circle"></i> MATRICULAS 2023 </button></a>     
             <a href="/">Inicio</a>
             <a href="{{ Route('News') }}">Noticias</a>
             <a href="{{ Route('actividades') }}">Actividades</a>
@@ -105,8 +106,9 @@ s0.parentNode.insertBefore(s1,s0);
 
             <div class="box">
                 <h3> <i class="fas fa-school"> IE JAG </i></h3>
+                <a href="{{ Route('informacion') }}"> <button type="button" class="btn btn-outline-success"><i class="fa fa-search"></i> Soporte Institucional </button> </a>
                 <p>Contamos con una variedad de Redes Sociales, en estas se pueden comunicar con nosotros.</p>
-                <div class="share">
+                <div class="share">        
                     <a href="https://es-la.facebook.com/GalanistasCumaral/" class="fab fa-facebook-f"></a>
                     <a href="https://talentogalanista.blogspot.com/" class="fab fa-blogger"></a>
                     <a href="https://www.instagram.com/joseantonio_galan1967" class="fab fa-instagram"></a>

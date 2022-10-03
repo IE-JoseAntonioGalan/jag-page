@@ -63,6 +63,32 @@
 
 <!-- multimedia section ends -->
 
+<!-- contabilidad section starts  -->
+
+   <section class="heading-link">
+        <h3>CONTABILIZACIÓN DE OPERACIONES COMERCIALES Y FINANCIERAS</h3> 
+   </section>
+
+   <section class="about">
+
+        <div class="contenedor-imagenes">
+        <img src="images/conta1.jpg" width="50%" height="50%"> 
+        <img src="images/conta2.jpg" width="50%" height="50%">
+        </div>
+
+        <div class="contenedor-imagenes">
+        <img src="images/conta3.jpg" width="50%" height="50%"> 
+        <img src="images/conta4.jpg" width="50%" height="50%">
+        </div>
+
+
+        <iframe  style="margin: 0 auto;" src="images/contabilidad.pdf" width="80%" height="500px" ></iframe>
+        
+
+   </section>
+
+<!-- contabilidad section ends -->
+
 <!-- swiper js link  -->
 <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
 

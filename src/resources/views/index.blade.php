@@ -31,7 +31,7 @@
 
     <section class="subjects">
 
-        <h1 class="heading">Información Acerca de la Institución</h1>
+        <h1 class="heading">Información Acerca de la Institución</h1> 
 
         <div class="box-container">
 
@@ -39,6 +39,13 @@
                 <img src="images/info.png" alt="">
                 <h3>Información Institucional</h3>
                 <a href="{{ Route('About_us') }}" class="btn">Leer</a>
+                <p></p>
+            </div>
+
+            <div class="box">
+                <img src="images/galeriaicono.png" alt="">
+                <h3>Galeria</h3>
+                <a href="#" class="btn">Leer</a>
                 <p></p>
             </div>
 
@@ -67,13 +74,6 @@
                 <img src="images/modelo.png" alt="">
                 <h3>Modelo Pedagogico</h3>
                 <a href="{{ Route('Modelo') }}" class="btn">Leer</a>
-                <p></p>
-            </div>
-
-            <div class="box">
-                <img src="images/informacion.png" alt="">
-                <h3>+Info</h3>
-                <a href="{{ Route('informacion') }}" class="btn">Leer</a>
                 <p></p>
             </div>
 
