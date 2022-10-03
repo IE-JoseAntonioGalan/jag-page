@@ -68,6 +68,13 @@ class ViewsController extends Controller
         return view('modalidades', ['site_data' => $site_data[0]]);
     }
 
+    public function galeria()
+    {
+        $site_data = SiteConfig::all();
+
+        return view('galeria', ['site_data' => $site_data[0]]);
+    }
+
     public function posts_view()
     {
         $route_name = Route::currentRouteName();

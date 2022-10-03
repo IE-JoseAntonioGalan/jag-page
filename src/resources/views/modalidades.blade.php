@@ -4,7 +4,6 @@
 
 @section('content')
 
-
 <!-- Custom Styles -->
 <style>
     .contenedor-imagenes {
@@ -16,6 +15,7 @@
 }
 
 </style>
+<!-- Custom Styles -->
 
 <!-- software section starts  -->
 
