@@ -41,12 +41,20 @@
       <div class="box">
          <div class="content">
             <h3>Proyecto Padres</h3>
-            <iframe src="images/ppadr.pdf" width="50%" height="500px"></iframe>
+            <iframe src="images/ppadr.pdf" width="100%" height="500px"></iframe>
             <div class="icons">
             </div>
          </div>
       </div>
 
+      <div class="box">
+         <div class="content">
+            <h3>Proyecto Gestión del Riesgo</h3>
+            <iframe src="images/riesgo.pdf" width="100%" height="500px"></iframe>
+            <div class="icons">
+            </div>
+         </div>
+      </div>
       
 
    </div>
