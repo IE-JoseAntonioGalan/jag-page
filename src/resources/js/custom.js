@@ -133,3 +133,6 @@ document.querySelector('.load-more .btn').onclick = () =>{
   });
   document.querySelector('.load-more .btn').style.display = 'none';
 };
+
+
+const carousel = new bootstrap.Carousel('#myCarousel')
