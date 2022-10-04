@@ -10,7 +10,7 @@
 
             <div class="swiper-wrapper">
 
-                <section class="swiper-slide slide" style="background: url(./images/image.bannerjag) no-repeat;">
+                <section class="swiper-slide slide" style="background: url(./images/bannerjag.png) no-repeat;">
                     <div class="content">
                         <h3>Al Margen de la Educación</h3>
                         <p>Es una institución oficial legalmente aprobada por la Secreataría de Educación del Meta y ofrece preescolar, primaria, básica secundaria y media académica y técnica en las jornadas mañana y tarde, con la sede José María Córdoba.</p>
