@@ -63,55 +63,39 @@
           <img class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="1000px" height="500px" src="images/galeria11.jpeg" role="img" aria-label="Placeholder: Third slide" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#555"></rect></img>
         </div>
 
-      <div class="carousel-item">
+        <div class="carousel-item">
           <img class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="1000px" height="500px" src="images/galeria12.JPG" role="img" aria-label="Placeholder: Third slide" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#555"></rect></img>
         </div>
 
-      </div>
-
-      <div class="carousel-item">
+        <div class="carousel-item">
           <img class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="1000px" height="500px" src="images/galeria13.JPG" role="img" aria-label="Placeholder: Third slide" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#555"></rect></img>
         </div>
 
-      </div>
-
-      <div class="carousel-item">
+        <div class="carousel-item">
           <img class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="1000px" height="500px" src="images/galeria14.JPG" role="img" aria-label="Placeholder: Third slide" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#555"></rect></img>
         </div>
 
-      </div>
-
-      <div class="carousel-item">
+        <div class="carousel-item">
           <img class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="1000px" height="500px" src="images/galeria15.JPG" role="img" aria-label="Placeholder: Third slide" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#555"></rect></img>
         </div>
 
-      </div>
-
-      <div class="carousel-item">
+        <div class="carousel-item">
           <img class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="1000px" height="500px" src="images/galeria16.JPG" role="img" aria-label="Placeholder: Third slide" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#555"></rect></img>
         </div>
 
-      </div>
-
-      <div class="carousel-item">
+        <div class="carousel-item">
           <img class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="1000px" height="500px" src="images/galeria17.JPG" role="img" aria-label="Placeholder: Third slide" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#555"></rect></img>
         </div>
 
-      </div>
-
-      <div class="carousel-item">
+        <div class="carousel-item">
           <img class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="1000px" height="500px" src="images/galeria18.JPG" role="img" aria-label="Placeholder: Third slide" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#555"></rect></img>
         </div>
 
-      </div>
-
-      <div class="carousel-item">
+        <div class="carousel-item">
           <img class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="1000px" height="500px" src="images/galeria19.JPG" role="img" aria-label="Placeholder: Third slide" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#555"></rect></img>
         </div>
 
-      </div>
-
-      <div class="carousel-item">
+        <div class="carousel-item">
           <img class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="1000px" height="500px" src="images/galeria2.JPG" role="img" aria-label="Placeholder: Third slide" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#555"></rect></img>
         </div>
 
