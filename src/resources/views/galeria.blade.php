@@ -26,6 +26,14 @@
         <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="8" aria-label="Slide 9"></button>
         <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="9" aria-label="Slide 10"></button>
         <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="10" aria-label="Slide 11"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="11" aria-label="Slide 12"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="12" aria-label="Slide 13"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="13" aria-label="Slide 14"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="14" aria-label="Slide 15"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="15" aria-label="Slide 16"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="16" aria-label="Slide 17"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="17" aria-label="Slide 18"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="18" aria-label="Slide 19"></button>
 
       </div>
 
@@ -55,7 +63,55 @@
           <img class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="1000px" height="500px" src="images/galeria11.jpeg" role="img" aria-label="Placeholder: Third slide" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#555"></rect></img>
         </div>
 
-        <div class="carousel-item">
+      <div class="carousel-item">
+          <img class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="1000px" height="500px" src="images/galeria12.JPG" role="img" aria-label="Placeholder: Third slide" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#555"></rect></img>
+        </div>
+
+      </div>
+
+      <div class="carousel-item">
+          <img class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="1000px" height="500px" src="images/galeria13.JPG" role="img" aria-label="Placeholder: Third slide" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#555"></rect></img>
+        </div>
+
+      </div>
+
+      <div class="carousel-item">
+          <img class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="1000px" height="500px" src="images/galeria14.JPG" role="img" aria-label="Placeholder: Third slide" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#555"></rect></img>
+        </div>
+
+      </div>
+
+      <div class="carousel-item">
+          <img class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="1000px" height="500px" src="images/galeria15.JPG" role="img" aria-label="Placeholder: Third slide" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#555"></rect></img>
+        </div>
+
+      </div>
+
+      <div class="carousel-item">
+          <img class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="1000px" height="500px" src="images/galeria16.JPG" role="img" aria-label="Placeholder: Third slide" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#555"></rect></img>
+        </div>
+
+      </div>
+
+      <div class="carousel-item">
+          <img class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="1000px" height="500px" src="images/galeria17.JPG" role="img" aria-label="Placeholder: Third slide" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#555"></rect></img>
+        </div>
+
+      </div>
+
+      <div class="carousel-item">
+          <img class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="1000px" height="500px" src="images/galeria18.JPG" role="img" aria-label="Placeholder: Third slide" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#555"></rect></img>
+        </div>
+
+      </div>
+
+      <div class="carousel-item">
+          <img class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="1000px" height="500px" src="images/galeria19.JPG" role="img" aria-label="Placeholder: Third slide" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#555"></rect></img>
+        </div>
+
+      </div>
+
+      <div class="carousel-item">
           <img class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="1000px" height="500px" src="images/galeria2.JPG" role="img" aria-label="Placeholder: Third slide" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#555"></rect></img>
         </div>
 
