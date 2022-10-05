@@ -47,7 +47,7 @@ s0.parentNode.insertBefore(s1,s0);
 
         <nav class="navbar">
             <div id="close-navbar" class="fas fa-times"></div>
-            <a href="{{ Route('News') }}"><button type="button" class="btn btn-outline-danger active"><i class="fa fa-exclamation-circle"></i> MATRICULAS 2023 </button></a>     
+            <a href="{{ Route('matricula') }}"><button type="button" class="btn btn-outline-danger active"><i class="fa fa-exclamation-circle"></i> MATRICULAS 2023 </button></a>     
             <a href="/">Inicio</a>
             <a href="{{ Route('News') }}">Noticias</a>
             <a href="{{ Route('actividades') }}">Actividades</a>

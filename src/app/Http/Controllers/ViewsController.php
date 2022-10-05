@@ -75,6 +75,20 @@ class ViewsController extends Controller
         return view('galeria', ['site_data' => $site_data[0]]);
     }
 
+    public function historia()
+    {
+        $site_data = SiteConfig::all();
+
+        return view('historia', ['site_data' => $site_data[0]]);
+    }
+
+    public function matricula()
+    {
+        $site_data = SiteConfig::all();
+
+        return view('matricula', ['site_data' => $site_data[0]]);
+    }
+
     public function posts_view()
     {
         $route_name = Route::currentRouteName();

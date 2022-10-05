@@ -23,6 +23,8 @@ Route::get('/institucional', [ViewsController::class, 'institucional'])->name('i
 Route::get('/actividades', [ViewsController::class, 'actividades'])->name('actividades');
 Route::get('/modalidades', [ViewsController::class, 'modalidades'])->name('modalidades');
 Route::get('/galeria', [ViewsController::class, 'galeria'])->name('galeria');
+Route::get('/historia', [ViewsController::class, 'historia'])->name('historia');
+Route::get('/matricula', [ViewsController::class, 'matricula'])->name('matricula');
 Route::get('/noticias', [ViewsController::class, 'posts_view'])->name('News');
 Route::get('/noticias/{post_id}', [ViewsController::class, 'post_see_view'])->name('News_see');
 Route::get('/proyectos', [ViewsController::class, 'posts_view'])->name('Project');
