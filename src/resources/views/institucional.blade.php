@@ -16,8 +16,8 @@
 
       <div class="box">
          <div class="content">
-            <h3>Proyecto Democracia</h3>
-            <iframe src="images/pdemo.pdf" width="100%" height="500px"></iframe>
+            <h3>Proyecto Sexualidad con Valores</h3>
+            <iframe src="images/psexualidadconvalores.pdf" width="100%" height="500px"></iframe>
             <div class="icons">
             </div>
          </div>
@@ -55,6 +55,33 @@
             </div>
          </div>
       </div>
+      
+
+   </div>
+
+<br>
+
+   <div class="box-container">
+
+      <div class="box">
+         <div class="content">
+            <h3>Proyecto PRAE</h3>
+            <iframe src="images/pprae.pdf" width="100%" height="500px"></iframe>
+            <div class="icons">
+            </div>
+         </div>
+      </div>
+
+      <div class="box">
+         <div class="content">
+            <h3>Proyecto Democracia</h3>
+            <iframe src="images/pdemo.pdf" width="100%" height="500px"></iframe>
+            <div class="icons">
+            </div>
+         </div>
+      </div>
+
+      
       
 
    </div>

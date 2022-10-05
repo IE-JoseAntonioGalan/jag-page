@@ -9,9 +9,9 @@
    <p> <a href="/">Inicio</a> / Galeria </p>
 </section>
 
-<section class="about">
-
 <!-- Galeria Code -->
+
+<section class="about">
     
     <div style="margin: 0 auto;" id="carouselExampleIndicators" class="carousel slide" data-bs-ride="true">
       <div class="carousel-indicators">
@@ -130,14 +130,10 @@
 
  </div>
 
+</section>
 
 
 <!-- Galeria Code -->
-
-
-
-</section>
-
 
 <!-- link file link  -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet">

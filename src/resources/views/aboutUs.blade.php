@@ -102,7 +102,7 @@ Está conformado por un ovalo ancho de color verde, símbolo de la Llanura, la e
     <section class="about">
 
         <div class="image">
-            <img src="images/bandera.png" alt="">
+            <img src="images/banderajag.png" alt="">
         </div>
 
         <div class="content">
