@@ -40,8 +40,8 @@
 
       <div class="box">
          <div class="content">
-            <h3>Embellecimiento</h3>
-            <iframe src="images/embellecimiento.pdf" width="100%" height="500px"></iframe>
+            <h3>Feria Empresarial</h3>
+            <iframe src="images/feriaempresarial.pdf" width="100%" height="500px"></iframe>
             <div class="icons">
             </div>
          </div>
@@ -65,7 +65,16 @@
       <div class="box">
          <div class="content">
             <h3>Novena Navideña</h3>
-            <iframe src="images/navidad.pdf" width="50%" height="500px"></iframe>
+            <iframe src="images/navidad.pdf" width="100%" height="500px"></iframe>
+            <div class="icons">
+            </div>
+         </div>
+      </div>
+
+      <div class="box">
+         <div class="content">
+            <h3>Embellecimiento</h3>
+            <iframe src="images/embellecimiento.pdf" width="100%" height="500px"></iframe>
             <div class="icons">
             </div>
          </div>
