@@ -128,6 +128,21 @@
                   Secretaria Académica </h3>
             </div>
          </div>
+
+         <div class="swiper-slide slide" style="border: 2px outset;">
+            <div class="image">
+               <img src="images/PA_SandraMilena.jpg" alt="">
+               <div class="">
+                  <a></a>
+               </div>
+            </div>
+            <div class="content">
+               <h3>
+                  <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-tasks"></i> Sandra Milena Ramirez Gómez </button> 
+                  <br><br>
+                  Tesorera Pagadora </h3>
+            </div>
+         </div>
    
       
       </div>
