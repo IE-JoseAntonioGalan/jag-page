@@ -25,15 +25,7 @@
 
    <section class="about">
 
-        <div class="contenedor-imagenes">
-        <img src="images/matricula1.jpeg" width="50%" height="50%"> 
-        <img src="images/matricula2.jpeg" width="50%" height="50%">
-        </div>
-
-        <div class="contenedor-imagenes">
-        <img src="images/matricula3.jpeg" width="50%" height="50%"> 
-        <img src="images/matricula4.jpeg" width="50%" height="50%">
-        </div>
+        <iframe  style="margin: 0 auto;" src="images/matriculas.pdf" width="100%" height="500px" ></iframe>
 
    </section>
 

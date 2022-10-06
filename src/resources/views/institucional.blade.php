@@ -17,7 +17,7 @@
       <div class="box">
          <div class="content">
             <h3>Proyecto Sexualidad con Valores</h3>
-            <iframe src="images/psexualidadconvalores.pdf" width="100%" height="500px"></iframe>
+            <iframe src="images/p_sexualidad.pdf" width="100%" height="500px"></iframe>
             <div class="icons">
             </div>
          </div>
@@ -40,7 +40,7 @@
 
       <div class="box">
          <div class="content">
-            <h3>Proyecto Padres</h3>
+            <h3>Proyecto Escuela de Padres</h3>
             <iframe src="images/ppadr.pdf" width="100%" height="500px"></iframe>
             <div class="icons">
             </div>

@@ -25,7 +25,7 @@
                <h3>
                   <button type="button" class="btn btn-secondary disabled"><i class="fa fa-user"></i> Marco Fidel Parrado Parrado </button> 
                   <br><br>
-               Rector del Colegio <br><br>
+               Rector del Colegio <br>
                Lic. Administración y supervision Educativa </h3>
             </div>
          </div>
@@ -41,9 +41,26 @@
                <h3>
                   <button type="button" class="btn btn-secondary disabled"><i class="fa fa-user"></i> Alvaro Vidal Velasquez Velasquez </button> 
                   <br><br>
-                Coordinador : Disciplinario Jornada Mañana  <br><br>
-                Lic. Artes plásticas Audio visuales  <br><br>
-                Especializaciones : Legislación Educativa y procedimiento administrativo, pedagogía Ambiental </h3>
+                Coordinador: Jornada Mañana  <br>
+                Lic. Artes plásticas Audio visuales
+                </h3>
+            </div>
+         </div>
+
+         <div class="swiper-slide slide" style="border: 2px outset;">
+            <div class="image">
+               <img src="images/PD_YanethValderrama.jpg" alt="">
+               <div class="">
+                  <a></a>
+               </div>
+            </div>
+            <div class="content">
+               <h3>
+                  <button type="button" class="btn btn-secondary disabled"><i class="fa fa-user"></i> Yaneth Valderrama Castro </button> 
+                  <br><br>
+                Coordinadora: Jornada Tarde  <br>
+                Lic. Artes plásticas Audio visuales
+                </h3>
             </div>
          </div>
    
@@ -121,54 +138,6 @@
 
 <!-- teachers PA section ends -->
 
-<!-- teachers PS section starts  -->
-
-<section class="heading-link">
-        <i class="fas fa-arrow-left"></i><h3>Personal Servicios Generales</h3><i class="fas fa-arrow-right"></i>
-    </section>
-
-<section class="teachers">
-   <div class="swiper teachers-slider">
-      <div class="swiper-wrapper">
-
-         <div class="swiper-slide slide" style="border: 2px outset;">
-            <div class="image">
-               <img src="images/PS_NorbelPeña.jpg" alt="">
-               <div class="">
-                  <a></a>
-               </div>
-            </div>
-            <div class="content">
-               <h3>
-                  <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-unlock-alt"></i> Felipe Norbel Velasquez Peña </button>
-                  <br><br>
-               Celador </h3>
-            </div>
-         </div>
-
-         <div class="swiper-slide slide" style="border: 2px outset;">
-            <div class="image">
-               <img src="images/PS_Aguirre.jpg" alt="">
-               <div class="">
-                  <a></a>
-               </div>
-            </div>
-            <div class="content">
-               <h3>
-                  <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-unlock-alt"></i> Jhonathan Aguirre Neisa </button>
-                  <br><br>
-               Celador </h3>
-            </div>
-         </div>
-      
-      </div>
-
-   </div>
-
-</section>
-
-<!-- teachers PS section ends -->
-
 <!-- teachers PT section starts  -->
 
 <section class="heading-link">
@@ -208,9 +177,7 @@
                   <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-trophy"></i> Oscar Iván Alba Betancourt </button>
                   <br><br>
                    Modalidad: Diseño e Integración de Multimedia <br><br>
-                   Lic. Ingeniero sistemas  <br><br>
-                   Director área Media Técnica   <br><br>
-                Proyecto que forma parte: Consejo académico, Tiempo libre  </h3>
+                   </h3>
             </div>
          </div>
 
@@ -223,9 +190,9 @@
             </div>
             <div class="content">
                <h3>
-                  <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-trophy"></i> Franco </button>
+                  <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-trophy"></i> Franco Hugo Obando Bastidas </button>
                   <br><br>
-                   Modalidad: Contablilidad
+                   Modalidad: Contablilización de Operaciones Comerciales y Financieras
                 </h3>
             </div>
          </div>
@@ -293,8 +260,7 @@
                   <br><br>
                   Lic.  Filosofía y Música <br><br>
                   Especialista en Educación Cultura y política  <br><br>
-                  Mayister tecnología educativa y competencia digitales  <br><br>
-               Proyecto que forma parte: Democracia, Música, proyectos transversales desde la filosofía, reciclaje, huertas , Artísticas , Aula pedagogía etc.</h3>
+                  Mayister tecnología educativa y competencia digitales </h3>
             </div>
          </div>
 
@@ -326,9 +292,7 @@
                   <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-graduation-cap"></i> Richard Vladimir Parrado Muñoz </button>
                   <br><br>
                   Lic. Filosofía pensamiento político y económico  <br><br>
-                  Especialista en Información informática educativa <br><br>
-                  Mayister tecnología Aplicada a la educación <br><br>
-                Proyecto que forma parte: Gestión de Riesgo </h3>
+                  Mayister tecnología Aplicada a la educación  </h3>
             </div>
          </div>
 
