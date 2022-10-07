@@ -136,6 +136,12 @@ s0.parentNode.insertBefore(s1,s0);
         <div class="credit"> Manejo y Diseño Web <span>Programación de Software 11-2 JM</span> | © 2022
             Copyright - José Antonio Galán </div>
 
+        <!-- Do not touch  -->
+
+        <div class="credit">Por: <span>William Alexander Melo Gómez 11-2 JM </span> | <i class="fas fa-graduation-cap"></i> Lider Proyecto - PROM 2022</div>
+
+        <!-- Do not touch  -->
+
     </section>
 
     <!-- swiper js link  -->
