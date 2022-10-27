@@ -25,7 +25,7 @@
 
    <section class="about">
 
-        <iframe  style="margin: 0 auto;" src="images/matriculas.pdf" width="100%" height="500px" ></iframe>
+        <iframe  style="margin: 0 auto;" src="images/comunicado.pdf" width="100%" height="500px" ></iframe>
 
    </section>
 

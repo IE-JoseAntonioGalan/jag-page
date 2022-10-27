@@ -57,7 +57,7 @@
             <div class="content">
                <h3>
                   <button type="button" class="btn btn-secondary disabled"><i class="fa fa-user"></i> Yaneth Valderrama Castro </button> 
-                  <br><br>
+                  <br><br><br>
                 Coordinadora: Jornada Tarde  <br>
                 Lic. Artes plásticas Audio visuales
                 </h3>
@@ -93,9 +93,9 @@
             <div class="content">
                <h3>
                   <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-tasks"></i> Ana Faride Campos Roa </button> 
-                  <br><br>
-                  Auxiliar Administrativa *Pensionada* <br><br>
-               15 de febrero 1985 - 15 de Julio de 2022 </h3>
+                  <br>
+                  Auxiliar Administrativa *15 de febrero 1985 - 15 de Julio de 2022* 
+                </h3>
             </div>
          </div>
 
@@ -392,7 +392,6 @@
                   <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-graduation-cap"></i> Luis Gabriel Guerra Rojas </button>
                   <br><br>
                   Lic. Artes Plásticas <br><br>
-                  Grados a los que les dicta clase: 6°,7°,8°,9°,10° y 11°<br><br>
                 Proyecto que forma parte: Escuela de Padres</h3>
             </div>
          </div>
@@ -409,7 +408,6 @@
                   <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-graduation-cap"></i> Rafael Eduardo Beltran Nicholl’s </button>
                   <br><br>
                   Lic. Filosofía y Sociales <br><br>
-                  Grados a los que les dicta clase: 7°,8°,9°,10° y 11°<br><br>
                 Proyecto que forma parte: Derechos Humanos, La campana, Música y Novena</h3>
             </div>
          </div>
@@ -425,8 +423,7 @@
                <h3>
                   <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-graduation-cap"></i> Daryis Nedrid Muñoz Rondon </button>
                   <br><br>
-                  Lic. Humanidades, Castellano con énfasis en inglés como lengua extranjera <br><br>
-                  Grados a los que les dicta clase: 7°,8°,10° y 11°<br><br></h3>
+                  Lic. Humanidades, Castellano con énfasis en inglés como lengua extranjera <br><br></h3>
             </div>
          </div>
 
@@ -442,7 +439,6 @@
                   <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-graduation-cap"></i> Libia Consuelo Guevara Parrado </button>
                   <br><br>
                   Lic. Inglés y Español <br><br>
-                  Grados a los que les dicta clase: 6°,7°,8°,9°,10° y 11°<br><br>
                 Proyecto que forma parte: Escuela de Padres</h3>
             </div>
          </div>
@@ -459,7 +455,6 @@
                   <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-graduation-cap"></i> Omar Fredy Rodriguez </button>
                   <br><br>
                   Lic. Matemáticas y Física <br><br>
-                  Grados a los que les dicta clase: 8°,9° y 11°<br><br>
                 Proyecto que forma parte: Tiempo Libre</h3>
             </div>
          </div>
@@ -476,7 +471,6 @@
                   <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-graduation-cap"></i> Gladys Moreno Herrera </button>
                   <br><br>
                   Lic. Matemáticas y Física <br><br>
-                  Grados a los que les dicta clase: 6°,7°,10° y 11°<br><br>
                 Proyecto que forma parte: PRAE</h3>
             </div>
          </div>
@@ -493,7 +487,6 @@
                   <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-graduation-cap"></i> Jorge Alexander Fierro Castro </button>
                   <br><br>
                   Lic. Educación Física - Magíster <br><br>
-                  Grados a los que les dicta clase: 6°,7°,8°,9°,10° y 11°<br><br>
                 Proyecto que forma parte: Director de Tiempo Libre</h3>
             </div>
          </div>
@@ -510,7 +503,6 @@
                   <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-graduation-cap"></i> Cristian Leonardo González </button>
                   <br><br>
                   Lic. Química <br><br>
-                  Grados a los que les dicta clase: 7°,10° y 11°<br><br>
                 Proyecto que forma parte: Gestión de Riesgos</h3>
             </div>
          </div>
@@ -527,7 +519,6 @@
                   <button type="button" class="btn btn-secondary btn-block disabled"><i class="fa fa-graduation-cap"></i> Anderson Romero Bobadilla </button>
                   <br><br>
                   Lic. Lengua Castellana y Comunicación <br><br>
-                  Grados a los que les dicta clase: 9°,10° y 11°<br><br>
                 Proyecto que forma parte: PRAE</h3>
             </div>
          </div>

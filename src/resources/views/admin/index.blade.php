@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="es">
 
@@ -12,9 +13,9 @@
 
     <div id="app"></div>
 
-    <script src="{{ asset('js/manifest.js') }}"></script>
-    <script src="{{ asset('js/vendor.js') }}"></script>
-    <script src="{{ asset('js/app.js') }}"></script>
+    <script src="https://ie-joseagalan.com.co/js/manifest.js"></script>
+    <script src="https://ie-joseagalan.com.co/js/vendor.js"></script>
+    <script src="https://ie-joseagalan.com.co/js/app.js"></script>
 </body>
 
 </html>
